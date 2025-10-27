@@ -8,3 +8,7 @@ TechHaven is a trusted e-store established in 2018 that focuses on being the one
 **Loyalty program performance:** Compare sales between loyalty and non-loyalty members to evaluate retention success 
 
 **Geographic trends:** Visualize sales by region to uncover strong areas for targeted growth 
+
+A screenshot of a computer
+
+AI-generated content may be incorrect.
