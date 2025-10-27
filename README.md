@@ -1,5 +1,5 @@
 # TechHaven Analysis
-TechHaven is a trusted e-store established in 2018 that focuses on being the one stop shop for electronics globally. TechHaven generated **$28M with over 108K sales** in 2019-2022. However, TechHaven has encountered competition which has affected KPIs since Covid-19. With a large amount of data on sales, orders, refunds, geographic information, and the loyalty program, I will thoroughly analyze this information to uncover insights and provide recommendations to improve company growth. 
+TechHaven is a trusted e-store established in 2018 that focuses on being the one stop shop for electronics globally. TechHaven generated **$28M with over 108K sales** in 2019-2022. However, TechHaven has encountered competition which has affected KPIs since Covid-19. With a large amount of data on sales, orders, refunds, geographic information, and the loyalty program, I am partnering with the Head of Operations to thoroughly analyze this information to uncover insights and provide recommendations to improve company growth. 
 ## North Star Metrics
 **Sales trends:** Track trends revenue, AOV, order count to determine seasonal patterns and customer activity 
 
@@ -9,6 +9,6 @@ TechHaven is a trusted e-store established in 2018 that focuses on being the one
 
 **Geographic trends:** Visualize sales by region to uncover strong areas for targeted growth 
 
-A screenshot of a computer
+**insert ERD**
 
-AI-generated content may be incorrect.
+
