@@ -18,6 +18,6 @@ With TechHaven starting in 2018, there was not much growth the following year. H
 <p align="center">
 <img width="511" height="200" alt="Screenshot 2025-10-28 170308" src="https://github.com/user-attachments/assets/6f736886-955d-445b-9ae9-2540adc3416f" />
 
-
+### Seasonality
 
 
