@@ -20,7 +20,9 @@ With TechHaven starting in 2018, there was not much growth the following year. H
 
 ### Seasonality
 •	TechHaven sees an influx in sales every year during holiday season, averaging a **22% increase in November and 22% increase in December.** Order count increases by **23% in November and 21% in December.**
+
 •	February and October are consistently the worst months for the company. Sales **decline on average by 23% in February and 31% in October** while order count **decreases by 25% in February and 31% in October.**
+
 •	This provides insight into customer behavior patterns. Consumers tend to save prior to the holidays to wait for the best deals such as Black Friday. On the flip side, customers may be inclined to save after spending large during the holidays, which could contribute to the dip in sales and orders in February.
 
 
