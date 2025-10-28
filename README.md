@@ -24,11 +24,13 @@ With TechHaven starting in 2018, there was not much growth the following year. H
 
 •	February and October are consistently the worst months for the company. Sales **decline on average by 23% in February and 31% in October** while order count **decreases by 25% in February and 31% in October.**
 
+•	This provides insight into customer behavior patterns. Consumers tend to save prior to the holidays to wait for the best deals such as Black Friday. On the flip side, customers may be inclined to save after spending large during the holidays, which could contribute to the dip in sales and orders in February.
+
 <p align="center">
 <img width="686" height="395" alt="Screenshot 2025-10-28 173346" src="https://github.com/user-attachments/assets/dd15334d-d2b8-43a3-9400-af631082decc" />
 
 
 
-•	This provides insight into customer behavior patterns. Consumers tend to save prior to the holidays to wait for the best deals such as Black Friday. On the flip side, customers may be inclined to save after spending large during the holidays, which could contribute to the dip in sales and orders in February.
+
 
 
