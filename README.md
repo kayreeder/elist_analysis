@@ -22,11 +22,9 @@ However, the company could not maintain this momentum in the following years. Sa
 <img width="1008" height="392" alt="Screenshot 2025-10-31 161315" src="https://github.com/user-attachments/assets/2447d60b-4599-4704-9147-27e2319643ce" />
 
 ### Seasonality
-•	TechHaven sees an influx in sales every year during holiday season, averaging a **22% increase in November and 22% increase in December.** Order count increases by **23% in November and 21% in December.**
+•	Sales consistently spike during the holiday season, with November and December driving an average of **22% growth in both revenue and order volume**, underscoring the brand’s reliance on year-end consumer activity.
 
-•	February and October are consistently the worst months for the company. Sales **decline on average by 23% in February and 31% in October** while order count **decreases by 25% in February and 31% in October.**
-
-•	This provides insight into customer behavior patterns. Consumers tend to save prior to the holidays to wait for the best deals such as Black Friday. On the flip side, customers may be inclined to save after spending large during the holidays, which could contribute to the dip in sales and orders in February.
+•	Monthly growth rate trends from 2019–2022 reveal clear signs of seasonal volatility and post-2020 normalization. Across all four years, February and October consistently show **declines in sales and order count by 23-31%**, indicating potential cyclical slowdowns in customer activity or promotional gaps during these periods. The 2020 surge stands out as a sharp anomaly, with rapid early-year expansion followed by contraction in Q4. However, subsequent years show a persistent decline in growth momentum, culminating in deeper drops during 2022.
 
 <p align="center">
 <img width="686" height="395" alt="Screenshot 2025-10-28 173346" src="https://github.com/user-attachments/assets/dd15334d-d2b8-43a3-9400-af631082decc" />
