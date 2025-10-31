@@ -19,7 +19,7 @@ However, the company could not maintain this momentum in the following years. Sa
 
 <p align="center">
 <img width="511" height="200" alt="Screenshot 2025-10-28 170308" src="https://github.com/user-attachments/assets/6f736886-955d-445b-9ae9-2540adc3416f" />
-<img width="873" height="386" alt="Screenshot 2025-10-28 172044" src="https://github.com/user-attachments/assets/f73d258e-2562-48ad-80ce-fd0368ff5f77" />
+<img width="1008" height="392" alt="Screenshot 2025-10-31 161315" src="https://github.com/user-attachments/assets/2447d60b-4599-4704-9147-27e2319643ce" />
 
 ### Seasonality
 •	TechHaven sees an influx in sales every year during holiday season, averaging a **22% increase in November and 22% increase in December.** Order count increases by **23% in November and 21% in December.**
