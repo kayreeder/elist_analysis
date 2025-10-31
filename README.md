@@ -22,9 +22,9 @@ However, the company could not maintain this momentum in the following years. Sa
 <img width="1008" height="392" alt="Screenshot 2025-10-31 161315" src="https://github.com/user-attachments/assets/2447d60b-4599-4704-9147-27e2319643ce" />
 
 ### Seasonality
-•	Sales consistently spike during the holiday season, with November and December driving an average of **22% growth in both revenue and order volume**, underscoring the brand’s reliance on year-end consumer activity.
+Sales consistently spike during the holiday season, with November and December driving an average of **22% growth in both revenue and order volume**, underscoring the brand’s reliance on year-end consumer activity.
 
-•	Monthly growth rate trends from 2019–2022 reveal clear signs of seasonal volatility and post-2020 normalization. Across all four years, February and October consistently show **declines in sales and order count by 23-31%**, indicating potential cyclical slowdowns in customer activity or promotional gaps during these periods. The 2020 surge stands out as a sharp anomaly, with rapid early-year expansion followed by contraction in Q4. However, subsequent years show a persistent decline in growth momentum, culminating in deeper drops during 2022.
+Monthly growth rate trends from 2019–2022 reveal clear signs of seasonal volatility and post-2020 normalization. Across all four years, February and October consistently show **declines in sales and order count by 23-31%**, indicating potential cyclical slowdowns in customer activity or promotional gaps during these periods. The 2020 surge stands out as a sharp anomaly, with rapid early-year expansion followed by contraction in Q4. However, subsequent years show a persistent decline in growth momentum, culminating in deeper drops during 2022.
 
 <p align="center">
 <img width="686" height="395" alt="Screenshot 2025-10-28 173346" src="https://github.com/user-attachments/assets/dd15334d-d2b8-43a3-9400-af631082decc" />
