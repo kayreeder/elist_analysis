@@ -38,7 +38,7 @@ Monthly growth rate trends from 2019–2022 reveal clear signs of seasonal volat
 </p>
 
 ---
-<p align="center">
+<td align="center">
 <!-- === KPI Cards === -->
 <table>
   <tr>
