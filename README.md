@@ -64,7 +64,6 @@ _Apple Brand Contribution_
  <img width="933" height="511" alt="Screenshot 2025-11-01 162503" src="https://github.com/user-attachments/assets/637d7d80-9ae4-499d-815c-ae1460d36417" />
 </p>
 
-<p align="center"><i>Figure 1 – Top three products dominate overall sales performance from 2019 to 2022.</i></p>
 
 ---
 
