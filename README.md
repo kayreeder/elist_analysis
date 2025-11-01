@@ -54,6 +54,60 @@ Monthly growth rate trends from 2019–2022 reveal clear signs of seasonal volat
 • Sales spiked sharply across top categories in mid to late 2020, aligning with global increases in remote work, virtual learning, and home-office equipment upgrades. Afterward, trends stabilized and declined through 2021–2022, reflecting post-pandemic normalization.
 
 
+<h2 align="center">📊 TechHaven E-Commerce Performance Dashboard (2019–2022)</h2>
+
+<table>
+  <tr>
+    <td align="center">
+
+**💰 $9.8M**  
+_27in 4K Gaming Monitor – Top Revenue_
+
+</td>
+    <td align="center">
+
+**🛒 48K Orders**  
+_Apple AirPods – Most Purchased Product_
+
+</td>
+    <td align="center">
+
+**🍎 50% of Sales & 48% of Orders**  
+_Apple Brand Contribution_
+
+</td>
+  </tr>
+</table>
+
+---
+
+<table>
+  <tr>
+    <td width="50%" valign="top">
+
+### 🥇 Market Concentration
+- From 2019–2022, just three products – **27in 4K Gaming Monitor**, **MacBook Air**, and **Apple AirPods** – dominated sales.  
+- **27in 4K Monitor** led with **$9.8M**, followed by **AirPods ($7.7M)** and **MacBook Air ($6.3M)**.  
+
+### 💡 Brand Impact
+- **Apple products** (MacBook Air, AirPods, iPhone) generated ~**50% of sales** and **48% of orders**, highlighting cross-product appeal.
+
+</td>
+    <td width="50%" valign="top">
+
+### ⚖️ Top vs Low Performers
+- **AirPods** dominated order volume with **45% of all orders**, while the 27in monitor led revenue.  
+- **Bose SoundSport Headphones** and **Samsung Webcam** were lowest performers ($3.3K and $362K respectively).  
+
+### 📈 Seasonal & Pandemic Trends
+- Sales peaked in **mid-to-late 2020**, driven by remote-work demand.  
+- Performance normalized and declined through 2021–2022 as market conditions stabilized.  
+
+</td>
+  </tr>
+</table>
+
+
 
 
 
