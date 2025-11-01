@@ -96,9 +96,6 @@ _Apple Brand Contribution_
 </table>
 
 
-<p align="center">
-<img width="933" height="511" alt="Screenshot 2025-11-01 162503" src="https://github.com/user-attachments/assets/637d7d80-9ae4-499d-815c-ae1460d36417" />
-
 
 
 
