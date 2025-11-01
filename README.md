@@ -29,6 +29,22 @@ Monthly growth rate trends from 2019–2022 reveal clear signs of seasonal volat
 <p align="center">
 <img width="686" height="395" alt="Screenshot 2025-10-28 173346" src="https://github.com/user-attachments/assets/dd15334d-d2b8-43a3-9400-af631082decc" />
 
+## Product Performance
+
+**Market Concentration:**
+•	From 2019–2022, just three products, **the 27in 4K Gaming Monitor, MacBook Air Laptop, and Apple AirPods Headphones**, consistently dominated sales.
+•	The 27in 4K Gaming Monitor led with **$9.8M** in total sales, followed by Apple AirPods at **$7.7M** and the MacBook Air Laptop at **$6.3M.**
+**Top Revenue Performer vs. Volume Leader:**
+•	While the 27in 4K Gaming Monitor led in total sales revenue ($9.8M), the Apple AirPods were the most frequently purchased item, with over **48K orders**, representing nearly **45% of all orders** placed over the four-year period.
+**Brand Impact:**
+•	Apple products (MacBook Air, AirPods, iPhone) accounted for roughly **50% of total sales and 48% of total orders**, reflecting Apple’s strong ecosystem influence and cross-product appeal.
+**Underperforming Products:**
+•	On the other end, Bose SoundSport Headphones showed minimal traction, contributing only **$3.3K in sales from 27 orders**, while the Samsung Webcam followed with **$362K and 7.2K orders**, indicating limited consumer demand or possible substitution by higher-performing alternatives.
+**Seasonal and Pandemic-Linked Peaks:**
+•	Sales spiked sharply across top categories in mid to late 2020, aligning with global increases in remote work, virtual learning, and home-office equipment upgrades. Afterward, trends stabilized and declined through 2021–2022, reflecting post-pandemic normalization.
+
+
+
 
 
 
