@@ -31,48 +31,26 @@ Monthly growth rate trends from 2019–2022 reveal clear signs of seasonal volat
 
 ## Product Performance
 
-**Market Concentration:**
-
-• From 2019–2022, just three products, **the 27in 4K Gaming Monitor, MacBook Air Laptop, and Apple AirPods Headphones**, consistently dominated sales.
-
-• The 27in 4K Gaming Monitor led with **$9.8M** in total sales, followed by Apple AirPods at **$7.7M** and the MacBook Air Laptop at **$6.3M.**
-
-**Top Revenue Performer vs. Volume Leader:**
-
-• While the 27in 4K Gaming Monitor led in total sales revenue ($9.8M), the Apple AirPods were the most frequently purchased item, with over **48K orders**,         representing nearly **45% of all orders** placed over the four-year period.
-
-**Brand Impact:**
-
-• Apple products (MacBook Air, AirPods, iPhone) accounted for roughly **50% of total sales and 48% of total orders**, reflecting Apple’s strong ecosystem           influence and cross-product appeal.
-
-**Underperforming Products:**
-
-• On the other end, Bose SoundSport Headphones showed minimal traction, contributing only **$3.3K in sales from 27 orders**, while the Samsung Webcam followed       with **$362K and 7.2K orders**, indicating limited consumer demand or possible substitution by higher-performing alternatives.
-
-**Seasonal and Pandemic-Linked Peaks:**
-
-• Sales spiked sharply across top categories in mid to late 2020, aligning with global increases in remote work, virtual learning, and home-office equipment upgrades. Afterward, trends stabilized and declined through 2021–2022, reflecting post-pandemic normalization.
-
-
 <h2 align="center">📊 TechHaven E-Commerce Performance Dashboard (2019–2022)</h2>
 
+<!-- === KPI Cards === -->
 <table>
   <tr>
     <td align="center">
 
-**💰 $9.8M**  
-_27in 4K Gaming Monitor – Top Revenue_
+**💰 $9.8 M**  
+_27-inch 4K Gaming Monitor – Top Revenue_
 
 </td>
     <td align="center">
 
-**🛒 48K Orders**  
+**🛒 48 K Orders**  
 _Apple AirPods – Most Purchased Product_
 
 </td>
     <td align="center">
 
-**🍎 50% of Sales & 48% of Orders**  
+**🍎 50 % of Sales & 48 % of Orders**  
 _Apple Brand Contribution_
 
 </td>
@@ -81,31 +59,42 @@ _Apple Brand Contribution_
 
 ---
 
+<!-- === Line Graph Image === -->
+<p align="center">
+ <img width="933" height="511" alt="Screenshot 2025-11-01 162503" src="https://github.com/user-attachments/assets/637d7d80-9ae4-499d-815c-ae1460d36417" />
+</p>
+
+<p align="center"><i>Figure 1 – Top three products dominate overall sales performance from 2019 to 2022.</i></p>
+
+---
+
+<!-- === Two-Column Insights === -->
 <table>
   <tr>
     <td width="50%" valign="top">
 
 ### 🥇 Market Concentration
-- From 2019–2022, just three products – **27in 4K Gaming Monitor**, **MacBook Air**, and **Apple AirPods** – dominated sales.  
-- **27in 4K Monitor** led with **$9.8M**, followed by **AirPods ($7.7M)** and **MacBook Air ($6.3M)**.  
+- From 2019–2022, **27 in 4K Gaming Monitor**, **MacBook Air**, and **Apple AirPods** dominated sales.  
+- **27 in 4K Monitor** led with **$9.8 M**, followed by **AirPods ($7.7 M)** and **MacBook Air ($6.3 M)**.  
 
 ### 💡 Brand Impact
-- **Apple products** (MacBook Air, AirPods, iPhone) generated ~**50% of sales** and **48% of orders**, highlighting cross-product appeal.
+- **Apple products** (MacBook Air, AirPods, iPhone) contributed ~**50 % of sales** and **48 % of orders**, highlighting ecosystem strength.
 
 </td>
     <td width="50%" valign="top">
 
 ### ⚖️ Top vs Low Performers
-- **AirPods** dominated order volume with **45% of all orders**, while the 27in monitor led revenue.  
-- **Bose SoundSport Headphones** and **Samsung Webcam** were lowest performers ($3.3K and $362K respectively).  
+- **AirPods** dominated order volume with **45 % of all orders**, while the 27 in Monitor led revenue.  
+- **Bose SoundSport Headphones** and **Samsung Webcam** were lowest performers ($3.3 K and $362 K).  
 
 ### 📈 Seasonal & Pandemic Trends
 - Sales peaked in **mid-to-late 2020**, driven by remote-work demand.  
-- Performance normalized and declined through 2021–2022 as market conditions stabilized.  
+- Performance normalized and declined through 2021–2022 as market conditions stabilized.
 
 </td>
   </tr>
 </table>
+
 
 <p align="center">
 <img width="933" height="511" alt="Screenshot 2025-11-01 162503" src="https://github.com/user-attachments/assets/637d7d80-9ae4-499d-815c-ae1460d36417" />
