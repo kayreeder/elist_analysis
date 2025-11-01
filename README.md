@@ -31,8 +31,6 @@ Monthly growth rate trends from 2019–2022 reveal clear signs of seasonal volat
 
 ## Product Performance
 
-<h2 align="center">📊 TechHaven E-Commerce Performance Dashboard (2019–2022)</h2>
-
 <!-- === KPI Cards === -->
 <table>
   <tr>
