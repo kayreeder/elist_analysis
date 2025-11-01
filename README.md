@@ -31,6 +31,14 @@ Monthly growth rate trends from 2019–2022 reveal clear signs of seasonal volat
 
 ## Product Performance
 
+
+<!-- === Line Graph Image === -->
+<p align="center">
+ <img width="933" height="511" alt="Screenshot 2025-11-01 162503" src="https://github.com/user-attachments/assets/637d7d80-9ae4-499d-815c-ae1460d36417" />
+</p>
+
+---
+
 <!-- === KPI Cards === -->
 <table>
   <tr>
@@ -54,14 +62,6 @@ _Apple Brand Contribution_
 </td>
   </tr>
 </table>
-
----
-
-<!-- === Line Graph Image === -->
-<p align="center">
- <img width="933" height="511" alt="Screenshot 2025-11-01 162503" src="https://github.com/user-attachments/assets/637d7d80-9ae4-499d-815c-ae1460d36417" />
-</p>
-
 
 ---
 
