@@ -93,6 +93,75 @@ _Apple Brand Contribution_
 </table>
 
 
+<h2 align="center">📊 TechHaven E-Commerce Performance Dashboard (2019–2022)</h2>
+
+<!-- === KPI Cards with Color Bars === -->
+<table>
+  <tr>
+    <td align="center" width="33%">
+
+**💰 $9.8 M**  
+_27-inch 4K Gaming Monitor – Top Revenue_
+
+<hr style="border: 3px solid #007A3D; width: 60%; border-radius: 5px;">
+
+</td>
+    <td align="center" width="33%">
+
+**🛒 48 K Orders**  
+_Apple AirPods – Most Purchased Product_
+
+<hr style="border: 3px solid #FF7A00; width: 60%; border-radius: 5px;">
+
+</td>
+    <td align="center" width="33%">
+
+**🍎 50 % of Sales & 48 % of Orders**  
+_Apple Brand Contribution_
+
+<hr style="border: 3px solid #00AEEF; width: 60%; border-radius: 5px;">
+
+</td>
+  </tr>
+</table>
+
+---
+
+<!-- === Line Graph Image === -->
+<p align="center">
+  <img src="images/techhaven_sales_trends.png" alt="Total Sales Trends by Product 2019–2022" width="85%">
+</p>
+
+<p align="center"><i>Figure 1 – Top three products dominate overall sales performance from 2019 to 2022.</i></p>
+
+---
+
+<!-- === Two-Column Insights === -->
+<table>
+  <tr>
+    <td width="50%" valign="top">
+
+### 🥇 Market Concentration
+- From 2019–2022, **27 in 4K Gaming Monitor**, **MacBook Air**, and **Apple AirPods** dominated sales.  
+- **27 in 4K Monitor** led with **$9.8 M**, followed by **AirPods ($7.7 M)** and **MacBook Air ($6.3 M)**.  
+
+### 💡 Brand Impact
+- **Apple products** (MacBook Air, AirPods, iPhone) contributed ~**50 % of sales** and **48 % of orders**, highlighting ecosystem strength.
+
+</td>
+    <td width="50%" valign="top">
+
+### ⚖️ Top vs Low Performers
+- **AirPods** dominated order volume with **45 % of all orders**, while the 27 in Monitor led revenue.  
+- **Bose SoundSport Headphones** and **Samsung Webcam** were lowest performers ($3.3 K and $362 K).  
+
+### 📈 Seasonal & Pandemic Trends
+- Sales peaked in **mid-to-late 2020**, driven by remote-work demand.  
+- Performance normalized and declined through 2021–2022 as market conditions stabilized.
+
+</td>
+  </tr>
+</table>
 
 
 
