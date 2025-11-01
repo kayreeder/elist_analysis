@@ -31,7 +31,7 @@ Monthly growth rate trends from 2019–2022 reveal clear signs of seasonal volat
 
 ## Product Performance
 
-**Market Concentration:**
+### Market Concentration:
 
 •	From 2019–2022, just three products, **the 27in 4K Gaming Monitor, MacBook Air Laptop, and Apple AirPods Headphones**, consistently dominated sales.
 •	The 27in 4K Gaming Monitor led with **$9.8M** in total sales, followed by Apple AirPods at **$7.7M** and the MacBook Air Laptop at **$6.3M.**
