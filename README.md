@@ -146,59 +146,10 @@ _Apple Brand Contribution_
 
 
 
-# 📊 TechHaven Analytics Dashboard
-TechHaven is a trusted e-store established in 2018 that focuses on being the one stop shop for electronics globally. TechHaven generated **$28M with over 108K sales** in 2019-2022. However, TechHaven has encountered competition which has affected KPIs since Covid-19. With a large amount of data on sales, orders, refunds, geographic information, and the loyalty program, I am partnering with the Head of Operations to thoroughly analyze this information to uncover insights and provide recommendations to improve company growth. 
-
----
-
-## 📁 Table of Contents
-- [💰 Product Performance Overview](#-product-performance-overview)
-- [🔄 Refund Rate Analysis](#-refund-rate-analysis)
-- [💎 Loyalty Membership Expansion](#-loyalty-membership-expansion)
-- [📈 Summary of Key Business Insights](#-summary-of-key-business-insights)
-
-## ERD & North Star Metrics
-
-**Sales trends:** Track trends revenue, AOV, order count to determine seasonal patterns and customer activity 
-
-**Product trends:** Analyzing product performance to determine which categories drive sales and monitor customer satisfaction through refund rates 
-
-**Loyalty program performance:** Compare sales between loyalty and non-loyalty members to evaluate retention success 
-
-**Geographic trends:** Visualize sales by region to uncover strong areas for targeted growth 
+## 📈 Sales Trends
 
 <p align="center">
-<img width="637" height="375" alt="Screenshot 2025-10-27 172207" src="https://github.com/user-attachments/assets/2b697c76-0fef-456b-a998-cffbe479fadc" />
-
----
-
-## Sales Trends
-
-
-<p align="center">
-<img width="511" height="200" alt="Screenshot 2025-10-28 170308" src="https://github.com/user-attachments/assets/6f736886-955d-445b-9ae9-2540adc3416f" />
-<img width="1008" height="392" alt="Screenshot 2025-10-31 161315" src="https://github.com/user-attachments/assets/2447d60b-4599-4704-9147-27e2319643ce" />
-</p>
-
-<div align="center">
-
-<table>
-<tr>
-<td width="48%" valign="top">
- 
- <li>With TechHaven starting in 2018, there was not much growth the following year. However, 2020 spiked sales with a <strong>50% growth rate in March alone.</strong> This could be due to the shutdown of stores during that time, forcing customers to shop online. 
- <li>From 2019 to 2020, <strong>AOV increased by 31% and order count by 17K.</strong>
-
- <li>However, the company could not maintain this momentum in the following years. Sales rose sharply through 2020, peaking midyear at **over $1.2M** before declining steadily across 2021 and 2022. 
-<li>**AOV (-10%)** and **order count (-40%)** also declined from 2021 to 2022. 
-<li>The linear trendline shows a gradual downward shift in overall performance after the 2020 high point. This pattern suggests an exceptional surge, possibly driven by short-term market demand or promotional factors, followed by normalization in later years.
-
----
-
-## 🔄 Refund Rate Analysis
-
-<p align="center">
-  <img src="imgs/refund_heatmap.png" alt="Refund Rate Heatmap by Product (2019–2021)" width="700">
+  <img width="658" height="343" alt="Sales Trends Overview" src="https://github.com/user-attachments/assets/790e1317-9ff1-477c-8273-410057dbbd03" />
 </p>
 
 <div align="center">
@@ -207,70 +158,35 @@ TechHaven is a trusted e-store established in 2018 that focuses on being the one
 <tr>
 <td width="48%" valign="top">
 
-- **MacBook Air Laptop:** Second-highest revenue (~$6.3 M) but started with an **18 % refund rate**, later improving to **6 %** by 2021.  
-- **ThinkPad Laptop:** High-volume item with refunds dropping from **17 % → 9 %** — clear reliability gains.  
-- **Apple AirPods:** Drove **~45 % of orders** while keeping moderate refund levels (**6 % → 4 %**).  
-- **27-in 4K Gaming Monitor:** Top-3 revenue item with stable refunds (**7 % → 5 %**).
+With TechHaven starting in 2018, there was limited traction the following year. However, **2020 saw a dramatic sales surge**, with a **50 % growth rate in March alone**, likely due to in-person store shutdowns driving customers online.  
+From 2019 to 2020, **Average Order Value (AOV) increased by 31 %** and **order count rose by 17 K**, marking TechHaven’s strongest period of digital expansion.  
+
+The company, however, could not sustain that momentum in later years. Sales peaked mid-2020 at **over $1.2 M**, followed by a steady decline across 2021–2022.  
+During that time, **AOV fell 10 %** and **order count dropped 40 %**, suggesting a post-pandemic normalization in demand.  
+The linear trendline illustrates a gradual downward shift after the 2020 high point — an anomaly driven by short-term market forces or temporary promotions.
+
+<p align="center">
+  <img width="511" height="200" alt="Total Sales Chart" src="https://github.com/user-attachments/assets/6f736886-955d-445b-9ae9-2540adc3416f" />
+  <img width="1008" height="392" alt="Sales Growth Chart" src="https://github.com/user-attachments/assets/2447d60b-4599-4704-9147-27e2319643ce" />
+</p>
 
 </td>
 <td width="48%" valign="top">
 
-- **Apple iPhone:** Mid-range refund rate (**11 % → 5 %**) showing steady quality improvements.  
-- **Samsung Webcam:** Refunds fell from **7 % → 3 %** — stronger perceived reliability.  
-- **Samsung Cable Pack:** Near-zero refunds (**2 % → 1 %**), excellent satisfaction.  
-- **Bose Headphones:** Zero refunds across all years — consistent quality.
+### 🗓️ Seasonality  
+Sales consistently spike during the holiday period, with **November and December driving an average 22 % growth** in both revenue and order volume — underscoring the brand’s reliance on year-end consumer activity.  
+
+Monthly growth rate trends from 2019–2022 reveal strong **seasonal volatility** and **post-2020 normalization**.  
+Across all four years, **February and October** repeatedly show **sales declines of 23–31 %**, indicating cyclical slowdowns or promotional gaps.  
+The **2020 surge** appears as a clear outlier — rapid early-year expansion followed by contraction in Q4.  
+Later years show continued deceleration, culminating in sharper declines through 2022.
+
+<p align="center">
+  <img width="686" height="395" alt="Seasonal Sales Heatmap" src="https://github.com/user-attachments/assets/dd15334d-d2b8-43a3-9400-af631082decc" />
+</p>
 
 </td>
 </tr>
 </table>
 
 </div>
-
-> **Overall:** Refund rates declined across nearly all categories from 2019–2021, confirming higher quality control, fewer returns, and improved profitability among TechHaven’s top-selling products.
-
----
-
-## 💎 Loyalty Membership Expansion
-
-<p align="center">
-  <img src="imgs/loyalty_share.png" alt="Loyalty Membership Expands from 2019–2022" width="700">
-</p>
-
-<div align="center">
-
-<table>
-<tr>
-<td width="48%" valign="top">
-
-- **Loyalty share** grew from **11 % → 55 %**, quadrupling TechHaven’s active member base.  
-- **2021 marked a turning point**, when loyalty members exceeded non-members.  
-- Increased engagement reflects improved customer experience and retention.
-
-</td>
-<td width="48%" valign="top">
-
-- **Non-loyalty share** declined from **89 % → 45 %**, showing better conversion.  
-- Loyalty customers now drive **repeat orders and higher AOV**.  
-- The trend supports sustained revenue and brand strength.
-
-</td>
-</tr>
-</table>
-
-</div>
-
-> **Overall:** The surge in loyalty participation mirrors TechHaven’s broader growth strategy — stronger customer retention, higher CLV, and stable repeat sales.
-
----
-
-## 📈 Summary of Key Business Insights
-
-| **Focus Area** | **2019–2022 Trend** | **Business Interpretation** |
-|:----------------|:--------------------|:-----------------------------|
-| **Top Products** | Concentrated sales in 3 flagship SKUs | Revenue strength but exposure risk — diversify mid-tier lineup. |
-| **Refunds** | Rates declined by ~50 % across most categories | Product quality and fulfillment improved, lowering loss margins. |
-| **Loyalty Program** | Grew from 11 % → 55 % membership | Retention success; repeat customers now majority of orders. |
-| **Brand Impact** | Apple drives ~50 % of total revenue | Leverage ecosystem loyalty while promoting alternative brands. |
-
-> TechHaven’s data reveals strong upward momentum in product quality, loyalty engagement, and operational efficiency — positioning the company for scalable, retention-driven growth.
-
