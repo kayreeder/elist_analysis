@@ -118,3 +118,81 @@ _Apple Brand Contribution_
  <li>This growth suggests strong retention and engagement, supported by successful promotional and member-exclusive programs.  
  <li>The trend parallels TechHaven’s broader sales growth, showing that <strong>repeat customers increasingly drive long-term revenue stability</strong>.  
  <li>Non-loyalty share decreased proportionally each year, indicating better conversion and retention performance.
+
+
+
+
+
+
+
+
+ ---
+
+## 💎 Loyalty Membership Expansion (2019–2022)
+
+<p align="center">
+  <img src="imgs/loyalty_share.png" alt="Loyalty Membership Expands from 2019–2022" width="700">
+</p>
+
+**Key Insights**
+- **Loyalty share** increased sharply from **11 % in 2019** to **55 % by 2022**, more than quadrupling in four years.  
+- **2021 marked a major milestone** — loyalty members surpassed non-loyalty customers for the first time.  
+- This growth aligns with TechHaven’s broader **sales and retention gains**, signaling successful member engagement strategies.  
+- A higher loyalty base also supports **repeat purchase behavior**, increased AOV, and improved lifetime value (CLV).  
+- Meanwhile, **non-loyalty share** steadily declined, showing effective conversion of new customers into long-term members.
+
+> **Summary:** TechHaven’s expanding loyalty base reflects stronger brand trust and retention, confirming the long-term impact of customer-focused initiatives.
+
+---
+
+## 💡 Refund Rate Insights by Product Performance
+
+<p align="center">
+  <img src="imgs/refund_heatmap.png" alt="Refund Rate Heatmap for TechHaven Products (2019–2021)" width="700">
+</p>
+
+<div align="center">
+
+<table>
+<tr>
+<td width="48%" valign="top">
+
+- **MacBook Air Laptop:** Second-highest revenue (~$6.3 M) but initially high refund rate (18 %) that fell to 6 % by 2021 — major improvement in reliability.  
+- **ThinkPad Laptop:** High-volume performer with refund rates dropping (17 % → 9 %), indicating product quality gains.  
+- **Apple AirPods Headphones:** Drove ~45 % of all orders; stable refund rates (6 % → 4 %) despite large volume.  
+- **27-in 4K Gaming Monitor:** Top-3 revenue driver (~$9.8 M) with balanced performance (7 % → 5 %).  
+
+</td>
+<td width="48%" valign="top">
+
+- **Apple iPhone:** Core ecosystem product; refunds improved (11 % → 5 %) as later models launched.  
+- **Samsung Webcam:** Mid-tier performer; refunds declined (7 % → 3 %).  
+- **Samsung Charging Cable Pack:** Near-zero refunds (2 % → 1 %) — high reliability.  
+- **Bose Soundsport Headphones:** Zero returns across all years — flawless satisfaction.  
+
+</td>
+</tr>
+</table>
+
+</div>
+
+> **Summary:** Refund rates declined across nearly all categories from 2019–2021, reflecting stronger product quality and customer confidence, particularly among top-revenue products.
+
+---
+
+## 🧠 Product Performance Overview
+
+<p align="center">
+  <img src="imgs/top_products_chart.png" alt="Top Product Sales Performance (2019–2022)" width="700">
+</p>
+
+**Highlights**
+- **Top 3 products** — 27-in 4K Gaming Monitor, MacBook Air, and Apple AirPods — dominated sales from 2019–2022.  
+- The **Gaming Monitor** led in revenue (~$9.8 M), while **AirPods** were the **most purchased item** (~48 K orders).  
+- **Apple products** collectively generated ~50 % of all sales and 48 % of total orders, underscoring brand influence.  
+- **Underperformers** such as smaller accessories showed low sales and can be candidates for bundling or discount promotion.
+
+> **Summary:** TechHaven’s top-selling products reveal strong brand concentration and growth opportunity through inventory optimization and cross-promotion.
+
+---
+
