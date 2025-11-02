@@ -186,9 +186,12 @@ TechHaven is a trusted e-store established in 2018 that focuses on being the one
 <tr>
 <td width="48%" valign="top">
  
- <li>With TechHaven starting in 2018, there was not much growth the following year. However, 2020 spiked sales with a <strong>50% growth rate in March alone.</strong> This could be due to the shutdown of stores during that time, forcing customers to shop online. From 2019 to 2020, <strong>AOV increased by 31% and order count by 17K.</strong>
+ <li>With TechHaven starting in 2018, there was not much growth the following year. However, 2020 spiked sales with a <strong>50% growth rate in March alone.</strong> This could be due to the shutdown of stores during that time, forcing customers to shop online. 
+ <li>From 2019 to 2020, <strong>AOV increased by 31% and order count by 17K.</strong>
 
- <li>However, the company could not maintain this momentum in the following years. Sales rose sharply through 2020, peaking midyear at **over $1.2M** before declining steadily across 2021 and 2022. **AOV (-10%)** and **order count (-40%)** also declined from 2021 to 2022. The linear trendline shows a gradual downward shift in overall performance after the 2020 high point. This pattern suggests an exceptional surge, possibly driven by short-term market demand or promotional factors, followed by normalization in later years.
+ <li>However, the company could not maintain this momentum in the following years. Sales rose sharply through 2020, peaking midyear at **over $1.2M** before declining steadily across 2021 and 2022. 
+<li>**AOV (-10%)** and **order count (-40%)** also declined from 2021 to 2022. 
+<li>The linear trendline shows a gradual downward shift in overall performance after the 2020 high point. This pattern suggests an exceptional surge, possibly driven by short-term market demand or promotional factors, followed by normalization in later years.
 
 ---
 
