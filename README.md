@@ -96,7 +96,6 @@ _Apple Brand Contribution_
 
 <p align="center">
   <img src="imgs/refund_heatmap.png" alt="Refund rate heat map for TechHaven products, 2019–2021" width="720">
-</p>
 
 <ul>
   <li>Overall refund rates <strong>declined steadily from 2019 to 2021</strong>, suggesting improved quality control and customer satisfaction.</li>
