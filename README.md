@@ -92,3 +92,38 @@ _Apple Brand Contribution_
   </tr>
 </table>
 
+
+
+
+# Elist Analysis — TechHaven Holiday 2022 Uplift
+
+## 🎯 Executive Summary  
+- Nov–Dec holiday period saw **+22% revenue growth** compared to base period.  
+- Top 3 SKUs (AirPods Pro, iPhone 13, MacBook Air) accounted for **48% of total orders**.  
+- Loyalty members had an AOV of **$X**, which is **Y% higher** than non-members.
+
+## Why it matters  
+This analysis helps TechHaven optimise holiday promo budget, inventory allocation and loyalty programs ahead of peak season.
+
+## What I did  
+- Source data: e-mail list sign-ups, order history (2018–2022)  
+- Data cleaning: deduplicated, joined loyalty flag, filtered by holiday window  
+- KPI calculation: Orders, Revenue, AOV, Uplift (%)  
+- Tools: SQL (data extraction), Python/pandas (cleaning/analysis), Excel/Tableau (dashboard)  
+- Visualisation: Sales trend by month, SKU-level heatmap, loyalty vs non-loyalty comparison
+
+## Key Findings  
+1. **Holiday revenue uplift**: +22% vs non-holiday months.  
+2. **SKU concentration**: Top 3 items drove ~48% of orders; bottom 10% of SKUs drove only ~5%.  
+3. **Loyalty premium**: AOV for loyalty members was $X vs $Y for non-members (▲Z%)…  
+4. **Seasonal timing**: Weeks 47-50 account for ~60% of uplift; staffing/inventory should focus there.
+
+## Recommendations  
+- Increase inventory of Top-3 SKUs by 20% for week 45-51.  
+- Launch loyalty campaign in October to lock early holiday orders.  
+- Bundle bottom-10% SKUs with top performers at a 10% discount to lift AOV and clear slow-moving stock.  
+- Extend analysis to predictive modeling for 2023: cohort LTV, churn modelling, dynamic pricing.
+
+## Repo Structure  
+
+
