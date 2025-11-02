@@ -115,7 +115,8 @@ _Apple Brand Contribution_
   <li>Across all categories, refunds **declined significantly from 2019 to 2021**, aligning with improved sales efficiency and fewer product-level losses — demonstrating that TechHaven’s most profitable products are also becoming more reliable year over year.
 
 
-## 💡 Refund Rate Insights by Product Performance
+<p align="center">
+  <img width="608" height="246" alt="Screenshot 2025-11-02 131644" src="https://github.com/user-attachments/assets/bbf77da9-7ff3-452a-a8ed-774661f4258a" />
 
 | **Product** | **Performance Overview** | **Refund Trend (2019→2021)** | **Key Insight** |
 |:-------------|:--------------------------|:------------------------------|:----------------|
