@@ -106,3 +106,11 @@ _Apple Brand Contribution_
   <li>The downward trend points to <strong>higher reliability</strong>, fewer returns, and <strong>greater operational efficiency</strong>.</li>
 </ul>
 
+
+  <li>The **MacBook Air Laptop**, despite generating the **second-highest total revenue ($6.3 M)**, also had one of the **highest refund rates (18 % in 2019)** — suggesting that premium pricing or early model issues may have driven higher returns early on. However, steady improvement through 2021 (down to 6 %) indicates stronger quality control or customer satisfaction in later releases.  
+  <li>The **ThinkPad Laptop**, a consistent top performer in order volume, showed a similar decline in refunds (17 % → 9 %), reflecting a positive reliability trend without major sales trade-offs.  
+  <li>**Apple AirPods Headphones**, a high-volume product responsible for nearly **45 % of total orders**, experienced moderate refund rates (6–10 %), which remained manageable given their shipment scale — showing that high turnover didn’t compromise quality.  
+  <li>The **27-in 4K Gaming Monitor** ranked among the top three revenue generators (~$9.8 M) and maintained mid-range refund rates (7–11 %), indicating that its strong performance came with acceptable product stability.  
+  <li>**Lower-priced accessories**, including the **Bose Headphones** and **Samsung Charging Cable Pack**, maintained near-zero refunds throughout all years — small-ticket items that nonetheless reinforced TechHaven’s overall customer trust and low return rate profile.  
+  <li>Across all categories, refunds **declined significantly from 2019 to 2021**, aligning with improved sales efficiency and fewer product-level losses — demonstrating that TechHaven’s most profitable products are also becoming more reliable year over year.
+
