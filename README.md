@@ -102,53 +102,8 @@ _Apple Brand Contribution_
   <li>Overall refund rates <strong>declined steadily from 2019 to 2021</strong>, suggesting improved quality control and customer satisfaction.</li>
   <li><strong>MacBook Air</strong> and <strong>ThinkPad Laptop</strong> started highest (~17–18%) but <strong>improved to single digits by 2021</strong>.</li>
   <li><strong>iPhone</strong> and the <strong>27in 4K Gaming Monitor</strong> remained in a <strong>moderate</strong> range with gradual improvement.</li>
-  <li>Accessories—especially <strong>Bose Headphones</strong> and <strong>Samsung Charging Cable Pack</strong>—show <strong>near-zero refunds</strong> across years.</li>
+  <li><strong>Bose Headphones</strong> and <strong>Samsung Charging Cable Pack</strong> show <strong>near-zero refunds</strong> across years.</li>
   <li>The downward trend points to <strong>higher reliability</strong>, fewer returns, and <strong>greater operational efficiency</strong>.</li>
+  <li> However, there is missing data for all products in 2022.
 </ul>
-
-
-  <li>The **MacBook Air Laptop**, despite generating the **second-highest total revenue ($6.3 M)**, also had one of the **highest refund rates (18 % in 2019)** — suggesting that premium pricing or early model issues may have driven higher returns early on. However, steady improvement through 2021 (down to 6 %) indicates stronger quality control or customer satisfaction in later releases.  
-  <li>The **ThinkPad Laptop**, a consistent top performer in order volume, showed a similar decline in refunds (17 % → 9 %), reflecting a positive reliability trend without major sales trade-offs.  
-  <li>**Apple AirPods Headphones**, a high-volume product responsible for nearly **45 % of total orders**, experienced moderate refund rates (6–10 %), which remained manageable given their shipment scale — showing that high turnover didn’t compromise quality.  
-  <li>The **27-in 4K Gaming Monitor** ranked among the top three revenue generators (~$9.8 M) and maintained mid-range refund rates (7–11 %), indicating that its strong performance came with acceptable product stability.  
-  <li>**Lower-priced accessories**, including the **Bose Headphones** and **Samsung Charging Cable Pack**, maintained near-zero refunds throughout all years — small-ticket items that nonetheless reinforced TechHaven’s overall customer trust and low return rate profile.  
-  <li>Across all categories, refunds **declined significantly from 2019 to 2021**, aligning with improved sales efficiency and fewer product-level losses — demonstrating that TechHaven’s most profitable products are also becoming more reliable year over year.
-
-
-
-
-## 💡 Refund Rate Insights by Product Performance
-<p align="center">
-  <img width="608" height="246" alt="Screenshot 2025-11-02 131644" src="https://github.com/user-attachments/assets/bbf77da9-7ff3-452a-a8ed-774661f4258a" />
-</p>
-
-<div align="center">
-
-<table>
-<tr>
-<td width="48%" valign="top">
-
-- **MacBook Air Laptop:** Second-highest revenue (~$6.3 M) but initially high refund rate (18 %) that fell to 6 % by 2021 — major improvement in reliability and satisfaction.  
-- **ThinkPad Laptop:** High-volume seller with strong decline in refunds (17 % → 9 %), showing quality gains without hurting demand.  
-- **Apple AirPods Headphones:** Drove ~45 % of total orders; refunds held steady (6 % → 4 %) despite huge volume, signaling consistent performance.  
-- **27-in 4K Gaming Monitor:** Top-3 revenue driver (~$9.8 M) with stable mid-range refund rates (7 % → 5 %); solid overall balance.
-
-</td>
-<td width="48%" valign="top">
-
-- **Apple iPhone:** Core ecosystem product with improving refund rates (11 % → 5 %)—steady refinement in later models.  
-- **Samsung Webcam:** Mid-tier performer; refunds dropped (7 % → 3 %) as quality perception improved.  
-- **Samsung Charging Cable Pack:** Low-cost item with near-zero refunds (2 % → 1 %); excellent reliability.  
-- **Bose Soundsport Headphones:** Low-volume but zero returns across all years—flawless customer feedback.
-
-</td>
-</tr>
-</table>
-
-</div>
-
-> **Overall:** Refund rates **declined across all categories from 2019–2021**, aligning with rising quality, lower product loss, and stronger customer trust—especially among TechHaven’s top-revenue items.
-
-
-
 
