@@ -95,7 +95,7 @@ _Apple Brand Contribution_
 ## Refund Rates
 
 <p align="center">
-<img width="608" height="246" alt="Screenshot 2025-11-02 131644" src="https://github.com/user-attachments/assets
+  <img src="imgs/refund_heatmap.png" alt="Refund rate heat map for TechHaven products, 2019–2021" width="720">
 </p>
 
 <ul>
@@ -106,6 +106,3 @@ _Apple Brand Contribution_
   <li>The downward trend points to <strong>higher reliability</strong>, fewer returns, and <strong>greater operational efficiency</strong>.</li>
 </ul>
 
-
-
-/7bb52aa6-19fc-4812-af0a-43ecd89f8337" />
