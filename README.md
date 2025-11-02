@@ -91,3 +91,20 @@ _Apple Brand Contribution_
 </td>
   </tr>
 </table>
+
+
+
+<h2>Product Refund Rates (2019–2021)</h2>
+
+<p align="center">
+  <img src="imgs/refund_heatmap.png" alt="Refund rate heat map for TechHaven products, 2019–2021" width="720">
+</p>
+
+<ul>
+  <li>Overall refund rates <strong>declined steadily from 2019 to 2021</strong>, suggesting improved quality control and customer satisfaction.</li>
+  <li><strong>MacBook Air</strong> and <strong>ThinkPad Laptop</strong> started highest (~17–18%) but <strong>improved to single digits by 2021</strong>.</li>
+  <li><strong>iPhone</strong> and the <strong>27in 4K Gaming Monitor</strong> remained in a <strong>moderate</strong> range with gradual improvement.</li>
+  <li>Accessories—especially <strong>Bose Headphones</strong> and <strong>Samsung Charging Cable Pack</strong>—show <strong>near-zero refunds</strong> across years.</li>
+  <li>The downward trend points to <strong>higher reliability</strong>, fewer returns, and <strong>greater operational efficiency</strong>.</li>
+</ul>
+
