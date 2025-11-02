@@ -113,10 +113,8 @@ _Apple Brand Contribution_
  <img width="658" height="343" alt="Screenshot 2025-11-02 141113" src="https://github.com/user-attachments/assets/790e1317-9ff1-477c-8273-410057dbbd03" />
 </p>
 
- <li>**Loyalty share** grew steadily from **11 % → 55 %**, quadrupling the size of TechHaven’s core customer base.  
- <li>**2021 marked a key milestone**, as loyalty members surpassed non-loyalty customers for the first time.  
- <li>This growth suggests **strong retention and engagement**, supported by successful promotional and member-exclusive programs.  
- <li>The trend parallels TechHaven’s broader sales growth, showing that **repeat customers increasingly drive long-term revenue stability**.  
- <li>**Non-loyalty share** decreased proportionally each year, indicating better conversion and retention performance.
-
-> Overall, TechHaven’s growing loyalty base is a leading indicator of sustainable customer lifetime value (CLV) and ongoing business health.
+ <li><strong>Loyalty share</strong> grew steadily from <strong>11% to 55%</strong>, quadrupling the size of TechHaven’s core customer base.  
+ <li><strong>2021 marked a key milestone</strong>, as loyalty members surpassed non-loyalty customers for the first time.  
+ <li>This growth suggests strong retention and engagement, supported by successful promotional and member-exclusive programs.  
+ <li>The trend parallels TechHaven’s broader sales growth, showing that <strong>repeat customers increasingly drive long-term revenue stability</strong>.  
+ <li>Non-loyalty share decreased proportionally each year, indicating better conversion and retention performance.
