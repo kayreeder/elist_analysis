@@ -107,24 +107,6 @@ _Apple Brand Contribution_
   <li> However, there is missing data for all products in 2022.
 </ul>
 
-## Loyalty Membership
-
-<p align="center">
- <img width="658" height="343" alt="Screenshot 2025-11-02 141113" src="https://github.com/user-attachments/assets/790e1317-9ff1-477c-8273-410057dbbd03" />
-</p>
-
- <li><strong>Loyalty share</strong> grew steadily from <strong>11% to 55%</strong>, quadrupling the size of TechHaven’s core customer base.  
- <li><strong>2021 marked a key milestone</strong>, as loyalty members surpassed non-loyalty customers for the first time.  
- <li>This growth suggests strong retention and engagement, supported by successful promotional and member-exclusive programs.  
- <li>The trend parallels TechHaven’s broader sales growth, showing that <strong>repeat customers increasingly drive long-term revenue stability</strong>.  
- <li>Non-loyalty share decreased proportionally each year, indicating better conversion and retention performance.
-
-
-
-
-
-
-
 
 ## Loyalty Membership
 
@@ -159,4 +141,116 @@ _Apple Brand Contribution_
 > 
 
 
+
+
+
+
+
+# 📊 TechHaven Analytics Dashboard
+Exploring TechHaven’s e-commerce trends (2019–2022) — including top-performing products, refund behavior, and loyalty program growth — to uncover actionable business insights.
+
+---
+
+## 📁 Table of Contents
+- [💰 Product Performance Overview](#-product-performance-overview)
+- [🔄 Refund Rate Analysis](#-refund-rate-analysis)
+- [💎 Loyalty Membership Expansion](#-loyalty-membership-expansion)
+- [📈 Summary of Key Business Insights](#-summary-of-key-business-insights)
+
+---
+
+## 💰 Product Performance Overview
+
+<p align="center">
+  <img src="imgs/top_products_chart.png" alt="Top Products by Revenue and Orders (2019–2022)" width="700">
+</p>
+
+- **Top performers:** 27-in 4K Gaming Monitor, MacBook Air Laptop, and Apple AirPods collectively drove **over half of total sales**.  
+- **Revenue leader:** 27-in 4K Gaming Monitor generated **$9.8 M** total.  
+- **Volume leader:** Apple AirPods accounted for **45 % of all orders**, confirming Apple’s strong brand ecosystem influence.  
+- **Brand impact:** Apple products contributed **≈50 % of total revenue** and **48 % of all orders**.  
+- **Underperformers:** Certain low-margin accessories exhibited higher refund rates and lower order consistency.
+
+> **Takeaway:** Product concentration is high — top 3 SKUs dominate revenue. Diversifying mid-tier items and managing inventory around high-return SKUs could balance revenue stability.
+
+---
+
+## 🔄 Refund Rate Analysis
+
+<p align="center">
+  <img src="imgs/refund_heatmap.png" alt="Refund Rate Heatmap by Product (2019–2021)" width="700">
+</p>
+
+<div align="center">
+
+<table>
+<tr>
+<td width="48%" valign="top">
+
+- **MacBook Air Laptop:** Second-highest revenue (~$6.3 M) but started with an **18 % refund rate**, later improving to **6 %** by 2021.  
+- **ThinkPad Laptop:** High-volume item with refunds dropping from **17 % → 9 %** — clear reliability gains.  
+- **Apple AirPods:** Drove **~45 % of orders** while keeping moderate refund levels (**6 % → 4 %**).  
+- **27-in 4K Gaming Monitor:** Top-3 revenue item with stable refunds (**7 % → 5 %**).
+
+</td>
+<td width="48%" valign="top">
+
+- **Apple iPhone:** Mid-range refund rate (**11 % → 5 %**) showing steady quality improvements.  
+- **Samsung Webcam:** Refunds fell from **7 % → 3 %** — stronger perceived reliability.  
+- **Samsung Cable Pack:** Near-zero refunds (**2 % → 1 %**), excellent satisfaction.  
+- **Bose Headphones:** Zero refunds across all years — consistent quality.
+
+</td>
+</tr>
+</table>
+
+</div>
+
+> **Overall:** Refund rates declined across nearly all categories from 2019–2021, confirming higher quality control, fewer returns, and improved profitability among TechHaven’s top-selling products.
+
+---
+
+## 💎 Loyalty Membership Expansion
+
+<p align="center">
+  <img src="imgs/loyalty_share.png" alt="Loyalty Membership Expands from 2019–2022" width="700">
+</p>
+
+<div align="center">
+
+<table>
+<tr>
+<td width="48%" valign="top">
+
+- **Loyalty share** grew from **11 % → 55 %**, quadrupling TechHaven’s active member base.  
+- **2021 marked a turning point**, when loyalty members exceeded non-members.  
+- Increased engagement reflects improved customer experience and retention.
+
+</td>
+<td width="48%" valign="top">
+
+- **Non-loyalty share** declined from **89 % → 45 %**, showing better conversion.  
+- Loyalty customers now drive **repeat orders and higher AOV**.  
+- The trend supports sustained revenue and brand strength.
+
+</td>
+</tr>
+</table>
+
+</div>
+
+> **Overall:** The surge in loyalty participation mirrors TechHaven’s broader growth strategy — stronger customer retention, higher CLV, and stable repeat sales.
+
+---
+
+## 📈 Summary of Key Business Insights
+
+| **Focus Area** | **2019–2022 Trend** | **Business Interpretation** |
+|:----------------|:--------------------|:-----------------------------|
+| **Top Products** | Concentrated sales in 3 flagship SKUs | Revenue strength but exposure risk — diversify mid-tier lineup. |
+| **Refunds** | Rates declined by ~50 % across most categories | Product quality and fulfillment improved, lowering loss margins. |
+| **Loyalty Program** | Grew from 11 % → 55 % membership | Retention success; repeat customers now majority of orders. |
+| **Brand Impact** | Apple drives ~50 % of total revenue | Leverage ecosystem loyalty while promoting alternative brands. |
+
+> TechHaven’s data reveals strong upward momentum in product quality, loyalty engagement, and operational efficiency — positioning the company for scalable, retention-driven growth.
 
