@@ -90,6 +90,56 @@ TechHaven is a trusted e-store established in 2018 that focuses on being the one
 
 ---
 
+<!-- === Two-Column Insights === -->
+<div align="center">
+
+<table>
+  <tr>
+    <td width="48%" valign="top">
+
+<h4>🥇 Market Concentration</h4>
+
+- From 2019–2022, the **27-inch 4K Gaming Monitor**, **MacBook Air**, and **Apple AirPods** dominated total sales.  
+- The **4K Monitor** led revenue at **$9.8 M**, followed by **AirPods ($7.7 M)** and **MacBook Air ($6.3 M)**.  
+- These three products consistently captured the largest share of both **sales and order volume**.
+
+<h4>💡 Brand Impact</h4>
+
+- **Apple products** (MacBook Air, AirPods, iPhone) contributed roughly **50 % of all sales** and **48 % of total orders**.  
+- Highlights Apple’s **ecosystem influence** — customers buying across multiple Apple categories.  
+- Reinforces TechHaven’s brand dependence on premium, high-trust products.
+
+</td>
+    <td width="48%" valign="top">
+
+<h4>⚖️ Top vs. Low Performers</h4>
+
+- **AirPods** were the volume leader, driving **45 % of total orders**, while the **27-inch 4K Monitor** remained the top revenue driver.  
+- Lower performers like **Bose SoundSport Headphones ($3.3 K)** and **Samsung Webcam ($362 K)** contributed minimally to overall revenue.  
+- Indicates strong polarization between premium flagship products and lower-tier accessories.
+
+<h4>📈 Sales Dynamics</h4>
+
+- Sales peaked in **mid-2020**, likely driven by remote-work demand and pandemic purchasing behavior.  
+- **Revenue normalized through 2021–2022**, marking a return to baseline consumer spending.  
+- Suggests opportunity to **diversify product mix** and expand mid-range offerings to sustain growth.
+
+</td>
+  </tr>
+</table>
+
+</div>
+
+
+## 💰 Product Performance
+
+<!-- === Line Graph Image === -->
+<p align="center">
+  <img width="933" height="511" alt="Product Revenue and Order Trends 2019–2022" src="https://github.com/user-attachments/assets/637d7d80-9ae4-499d-815c-ae1460d36417" />
+</p>
+
+---
+
 <!-- === KPI Cards === -->
 <div align="center">
 
@@ -157,69 +207,6 @@ _Apple Brand Contribution_
 
 </div>
 
-
-## Product Performance
-
-
-<!-- === Line Graph Image === -->
-<p align="center">
- <img width="933" height="511" alt="Screenshot 2025-11-01 162503" src="https://github.com/user-attachments/assets/637d7d80-9ae4-499d-815c-ae1460d36417" />
-</p>
-
----
-<td align="center">
-<!-- === KPI Cards === -->
-<table>
-  <tr>
-    <td align="center">
-
-**💰 $9.8 M**  
-_27-inch 4K Gaming Monitor – Top Revenue_
-
-</td>
-    <td align="center">
-
-**🛒 48 K Orders**  
-_Apple AirPods – Most Purchased Product_
-
-</td>
-    <td align="center">
-
-**🍎 50 % of Sales & 48 % of Orders**  
-_Apple Brand Contribution_
-
-</td>
-  </tr>
-</table>
-
----
-
-<!-- === Two-Column Insights === -->
-<table>
-  <tr>
-    <td width="50%" valign="top">
-
-### 🥇 Market Concentration
-- From 2019–2022, **27 in 4K Gaming Monitor**, **MacBook Air**, and **Apple AirPods** dominated sales.  
-- **27 in 4K Monitor** led with **$9.8 M**, followed by **AirPods ($7.7 M)** and **MacBook Air ($6.3 M)**.  
-
-### 💡 Brand Impact
-- **Apple products** (MacBook Air, AirPods, iPhone) contributed ~**50 % of sales** and **48 % of orders**, highlighting ecosystem strength.
-
-</td>
-    <td width="50%" valign="top">
-
-### ⚖️ Top vs Low Performers
-- **AirPods** dominated order volume with **45 % of all orders**, while the 27 in Monitor led revenue.  
-- **Bose SoundSport Headphones** and **Samsung Webcam** were lowest performers ($3.3 K and $362 K).  
-
-### 📈 Seasonal & Pandemic Trends
-- Sales peaked in **mid-to-late 2020**, driven by remote-work demand.  
-- Performance normalized and declined through 2021–2022 as market conditions stabilized.
-
-</td>
-  </tr>
-</table>
 
 ## Refund Rates
 
