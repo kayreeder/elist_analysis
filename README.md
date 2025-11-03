@@ -14,6 +14,7 @@ TechHaven is a trusted e-store established in 2018 that focuses on being the one
 
 ## Sales Trends
 
+
 <p align="center">
   <img width="511" height="200" alt="Total Sales Trends 2019–2022" src="https://github.com/user-attachments/assets/6f736886-955d-445b-9ae9-2540adc3416f" />
   <img width="1008" height="392" alt="Sales Growth Rate Chart" src="https://github.com/user-attachments/assets/2447d60b-4599-4704-9147-27e2319643ce" />
@@ -83,6 +84,7 @@ TechHaven is a trusted e-store established in 2018 that focuses on being the one
 
 ## Product Performance
 
+
 <!-- === Line Graph Image === -->
 <p align="center">
   <img width="933" height="511" alt="Product Revenue and Order Trends 2019–2022" src="https://github.com/user-attachments/assets/637d7d80-9ae4-499d-815c-ae1460d36417" />
@@ -130,6 +132,7 @@ TechHaven is a trusted e-store established in 2018 that focuses on being the one
 
 ## Refund Rates
 
+
 <!-- === Heatmap Image === -->
 <p align="center">
   <img width="608" height="246" alt="Screenshot 2025-11-02 131644" src="https://github.com/user-attachments/assets/bbf77da9-7ff3-452a-a8ed-774661f4258a" />
@@ -162,6 +165,7 @@ TechHaven is a trusted e-store established in 2018 that focuses on being the one
 
 ## Loyalty Membership
 
+
 <p align="center">
   <img width="658" height="343" alt="Screenshot 2025-11-02 141113" src="https://github.com/user-attachments/assets/790e1317-9ff1-477c-8273-410057dbbd03" />
 </p>
@@ -186,6 +190,7 @@ TechHaven is a trusted e-store established in 2018 that focuses on being the one
 </td>
 </tr>
 </table>
+
 
 
 ## Recommendations
