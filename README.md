@@ -30,16 +30,15 @@ TechHaven is a trusted e-store established in 2018 that focuses on being the one
 - From 2019 → 2020:  
   - **AOV grew +31 %**  
   - **Order count increased by 17K**  
-- Mid-2020 peak reached **$1.2 M+ in sales**.  
+  - **Sales spiked by $6.3M**.  
 
 </td>
 <td width="48%" valign="top">
 
 - Momentum slowed after 2020, with a **gradual decline** in 2021–2022.  
-- **AOV decreased by 10 %**, and **order count fell by 40 %** from 2021 → 2022.  
-- The linear trendline shows **post-pandemic normalization** after the exceptional 2020 surge.  
-- Indicates temporary market forces (pandemic behavior, promotions) rather than sustained organic growth.  
-- Sets the stage for **renewed focus on retention and product diversity**.
+  - **AOV decreased by 10 %**, and **order count fell by 40 %**.  
+  - The linear trendline shows **post-pandemic normalization** after the exceptional 2020 surge, which indicates temporary market forces (pandemic behavior, promotions) rather than sustained organic growth.  
+  - Sets the stage for **renewed focus on retention and product diversity**.
 
 </td>
 </tr>
