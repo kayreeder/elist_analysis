@@ -82,19 +82,7 @@ TechHaven is a trusted e-store established in 2018 that focuses on being the one
 </div>
 
 
-## Sales Trends 
-With TechHaven starting in 2018, there was not much growth the following year. However, 2020 spiked sales with a **50% growth rate in March alone.** This could be due to the shutdown of stores during that time, forcing customers to shop online. From 2019 to 2020, **AOV increased by 31% and order count by 17K.** 
 
-However, the company could not maintain this momentum in the following years. Sales rose sharply through 2020, peaking midyear at **over $1.2M** before declining steadily across 2021 and 2022. **AOV (-10%)** and **order count (-40%)** also declined from 2021 to 2022. The linear trendline shows a gradual downward shift in overall performance after the 2020 high point. This pattern suggests an exceptional surge, possibly driven by short-term market demand or promotional factors, followed by normalization in later years.
-
-<p align="center">
-<img width="511" height="200" alt="Screenshot 2025-10-28 170308" src="https://github.com/user-attachments/assets/6f736886-955d-445b-9ae9-2540adc3416f" />
-<img width="1008" height="392" alt="Screenshot 2025-10-31 161315" src="https://github.com/user-attachments/assets/2447d60b-4599-4704-9147-27e2319643ce" />
-
-### Seasonality
-Sales consistently spike during the holiday season, with November and December driving an average of **22% growth in both revenue and order volume**, underscoring the brand’s reliance on year-end consumer activity.
-
-Monthly growth rate trends from 2019–2022 reveal clear signs of seasonal volatility and post-2020 normalization. Across all four years, February and October consistently show **declines in sales and order count by 23-31%**, indicating potential cyclical slowdowns in customer activity or promotional gaps during these periods. The 2020 surge stands out as a sharp anomaly, with rapid early-year expansion followed by contraction in Q4. However, subsequent years show a persistent decline in growth momentum, culminating in deeper drops during 2022.
 
 <p align="center">
 <img width="686" height="395" alt="Screenshot 2025-10-28 173346" src="https://github.com/user-attachments/assets/dd15334d-d2b8-43a3-9400-af631082decc" />
