@@ -130,11 +130,11 @@ TechHaven is a trusted e-store established in 2018 that focuses on being the one
 
 </div>
 
-## 🔄 Refund Rates
+## Refund Rates
 
 <!-- === Heatmap Image === -->
 <p align="center">
-  <img width="750" height="420" alt="Refund Rate Heatmap by Product 2019–2021" src="https://github.com/user-attachments/assets/your-refund-heatmap-image-id" />
+  <img width="608" height="246" alt="Screenshot 2025-11-02 131644" src="https://github.com/user-attachments/assets/bbf77da9-7ff3-452a-a8ed-774661f4258a" />
 </p>
 
 ---
