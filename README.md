@@ -189,7 +189,7 @@ TechHaven is a trusted e-store established in 2018 that focuses on being the one
 
 ## Recommendations
 
-
+<div align="center">
 <table>
 <tr>
 <td width="48%" valign="top">
