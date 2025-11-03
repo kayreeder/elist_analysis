@@ -81,7 +81,7 @@ TechHaven is a trusted e-store established in 2018 that focuses on being the one
 
 </div>
 
-## 💰 Product Performance
+## Product Performance
 
 <!-- === Line Graph Image === -->
 <p align="center">
@@ -97,28 +97,28 @@ TechHaven is a trusted e-store established in 2018 that focuses on being the one
   <tr>
     <td width="48%" valign="top">
 
-<h4>🥇 Market Concentration</h4>
+<h4>Market Concentration</h4>
 
 - From 2019–2022, the **27-inch 4K Gaming Monitor**, **MacBook Air**, and **Apple AirPods** dominated total sales.  
 - The **4K Monitor** led revenue at **$9.8 M**, followed by **AirPods ($7.7 M)** and **MacBook Air ($6.3 M)**.  
 - These three products consistently captured the largest share of both **sales and order volume**.
 
-<h4>💡 Brand Impact</h4>
+<h4>Brand Impact</h4>
 
 - **Apple products** (MacBook Air, AirPods, iPhone) contributed roughly **50 % of all sales** and **48 % of total orders**.  
-- Highlights Apple’s **ecosystem influence** — customers buying across multiple Apple categories.  
+- Highlights Apple’s influence as customers buy across multiple Apple categories.  
 - Reinforces TechHaven’s brand dependence on premium, high-trust products.
 
 </td>
     <td width="48%" valign="top">
 
-<h4>⚖️ Top vs. Low Performers</h4>
+<h4>Top vs. Low Performers</h4>
 
 - **AirPods** were the volume leader, driving **45 % of total orders**, while the **27-inch 4K Monitor** remained the top revenue driver.  
 - Lower performers like **Bose SoundSport Headphones ($3.3 K)** and **Samsung Webcam ($362 K)** contributed minimally to overall revenue.  
-- Indicates strong polarization between premium flagship products and lower-tier accessories.
+- Indicates strong polarization between premium products and lower-tier accessories.
 
-<h4>📈 Sales Dynamics</h4>
+<h4>Sales Dynamics</h4>
 
 - Sales peaked in **mid-2020**, likely driven by remote-work demand and pandemic purchasing behavior.  
 - **Revenue normalized through 2021–2022**, marking a return to baseline consumer spending.  
