@@ -145,8 +145,8 @@ TechHaven is a trusted e-store established in 2018 that focuses on being the one
   <tr>
     <td width="48%" valign="top">
 
-- **Overall refund rates** declined steadily from **2019 → 2021**, suggesting **improved quality control and customer satisfaction**.  
-- **MacBook Air** and **ThinkPad Laptop** began with the **highest refund rates (~17–18 %)** but both **improved to single digits** by 2021.  
+- Overall refund rates declined steadily from 2019 to 2021, suggesting **improved quality control and customer satisfaction**.  
+- **MacBook Air Laptop** and **ThinkPad Laptop** began with the **highest refund rates (~17–18 %)** but both **improved to single digits** by 2021.  
 - The **iPhone** and **27-in 4K Gaming Monitor** remained in a **moderate range** with gradual improvement.  
 
 </td>
