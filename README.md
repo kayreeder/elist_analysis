@@ -88,8 +88,6 @@ TechHaven is a trusted e-store established in 2018 that focuses on being the one
   <img width="933" height="511" alt="Product Revenue and Order Trends 2019–2022" src="https://github.com/user-attachments/assets/637d7d80-9ae4-499d-815c-ae1460d36417" />
 </p>
 
----
-
 <!-- === Two-Column Insights === -->
 <div align="center">
 
