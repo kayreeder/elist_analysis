@@ -187,7 +187,8 @@ TechHaven is a trusted e-store established in 2018 that focuses on being the one
 </tr>
 </table>
 
-## 🧭 Recommendations
+
+## Recommendations
 
 <div align="center">
 
@@ -195,7 +196,7 @@ TechHaven is a trusted e-store established in 2018 that focuses on being the one
 <tr>
 <td width="48%" valign="top">
 
-<h4>📈 Sales Trends</h4>
+<h4>Sales Trends</h4>
 
 - **Capitalize on seasonal peaks:**  
   Focus marketing and ad spend in **Q4 (Nov–Dec)** where TechHaven consistently sees a +22 % sales lift.  
@@ -204,7 +205,7 @@ TechHaven is a trusted e-store established in 2018 that focuses on being the one
 - **Stabilize post-2020 decline:**  
   Diversify channel strategy and improve inventory planning to smooth year-over-year volatility.  
 
-<h4>💰 Product Performance</h4>
+<h4>Product Performance</h4>
 
 - **Reduce concentration risk:**  
   Expand mid-tier and accessory product lines to lessen dependence on top 3 SKUs.  
@@ -216,7 +217,7 @@ TechHaven is a trusted e-store established in 2018 that focuses on being the one
 </td>
 <td width="48%" valign="top">
 
-<h4>🔄 Refund Rates</h4>
+<h4>Refund Rates</h4>
 
 - **Investigate 2022 data gap:**  
   Prioritize full refund data collection to confirm sustained improvement.  
@@ -225,7 +226,7 @@ TechHaven is a trusted e-store established in 2018 that focuses on being the one
 - **Integrate refund metrics:**  
   Track refund rates as KPIs in performance dashboards to identify product issues early.  
 
-<h4>💎 Loyalty Program</h4>
+<h4>Loyalty Program</h4>
 
 - **Enhance engagement:**  
   Add **tiered rewards** and exclusive offers to encourage repeat purchases.  
