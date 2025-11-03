@@ -57,15 +57,14 @@ TechHaven is a trusted e-store established in 2018 that focuses on being the one
 <table>
 <tr>
 <td width="48%" valign="top">
-  
 
 <h4>Holiday Peaks</h4>
 
 - **November–December** drive an average **+22 % growth** in both revenue and order volume.  
-- **Consistent Q4 surge** across all four years (2019–2022).  
+- Consistent **Q4 surge** across all four years (2019–2022).  
 - Reflects TechHaven’s **dependence on year-end consumer spending**.  
 - Many customers **delay large purchases** until Black Friday and holiday promotions.  
-
+- Ideal window for **inventory planning and marketing optimization**.  
 </td>
 <td width="48%" valign="top">
 
