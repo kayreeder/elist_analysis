@@ -145,33 +145,16 @@ TechHaven is a trusted e-store established in 2018 that focuses on being the one
   <tr>
     <td width="48%" valign="top">
 
-<h4>📊 Product-Level Patterns</h4>
-
-- Refund rates declined across nearly all products between **2019–2021**, reflecting stronger quality control.  
-- The **MacBook Air Laptop**, despite being the **second-highest revenue driver ($6.3 M)**, began with an **18 % refund rate**, which improved to **6 %** by 2021.  
-- The **ThinkPad Laptop** showed similar improvement (**17 % → 9 %**) as reliability increased.  
-- **Apple AirPods**, which made up **~45 % of all orders**, maintained moderate but stable refund levels (**6 % → 4 %**).
-
-<h4>💡 Brand-Level Impact</h4>
-
-- **Apple’s ecosystem products** (MacBook Air, AirPods, iPhone) dominated both sales and returns but still improved steadily in refund performance.  
-- These improvements likely resulted from **product updates** and **better post-purchase support**.  
-- Overall brand trust strengthened as high-volume Apple SKUs became more reliable year-over-year.
+- **Overall refund rates** declined steadily from **2019 → 2021**, suggesting **improved quality control and customer satisfaction**.  
+- **MacBook Air** and **ThinkPad Laptop** began with the **highest refund rates (~17–18 %)** but both **improved to single digits** by 2021.  
+- The **iPhone** and **27-in 4K Gaming Monitor** remained in a **moderate range** with gradual improvement.  
 
 </td>
     <td width="48%" valign="top">
 
-<h4>📉 Underperformers & Stability</h4>
-
-- **27-inch 4K Gaming Monitor** remained a top-3 revenue product (~$9.8 M) with steady, manageable refund rates (**7 % → 5 %**).  
-- Accessories like the **Samsung Charging Cable Pack** and **Bose Headphones** maintained near-zero refund rates (**0–2 %**).  
-- These consistently low-return items reinforce TechHaven’s reputation for dependable accessory quality.
-
-<h4>📈 Business Implications</h4>
-
-- The overall decline in refund rates suggests **improved product reliability and fulfillment efficiency**.  
-- Fewer refunds lower operational losses and improve customer satisfaction.  
-- As high-revenue items become more reliable, TechHaven’s **profitability and customer retention** potential increases.
+- **Bose Headphones** and the **Samsung Charging Cable Pack** maintained **near-zero refund rates** across all years.  
+- The overall downward trend points to **higher reliability**, **fewer returns**, and **greater operational efficiency**.  
+- However, there is **missing data for 2022**, which limits full-year comparison and suggests the need for further data validation.
 
 </td>
   </tr>
