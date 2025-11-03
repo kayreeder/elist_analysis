@@ -12,7 +12,7 @@ TechHaven is a trusted e-store established in 2018 that focuses on being the one
 <p align="center">
 <img width="637" height="375" alt="Screenshot 2025-10-27 172207" src="https://github.com/user-attachments/assets/2b697c76-0fef-456b-a998-cffbe479fadc" />
 
-## 📈 Sales Trends
+## Sales Trends
 
 <p align="center">
   <img width="511" height="200" alt="Total Sales Trends 2019–2022" src="https://github.com/user-attachments/assets/6f736886-955d-445b-9ae9-2540adc3416f" />
@@ -48,6 +48,38 @@ TechHaven is a trusted e-store established in 2018 that focuses on being the one
 
 </div>
 
+### 🗓️ Seasonality
+
+<p align="center">
+  <img width="686" height="395" alt="Seasonal Sales Growth Rate Trends 2019–2022" src="https://github.com/user-attachments/assets/dd15334d-d2b8-43a3-9400-af631082decc" />
+</p>
+
+<div align="center">
+
+<table>
+<tr>
+<td width="48%" valign="top">
+
+- **Holiday peaks:** November–December drive an average **+22 % growth** in both revenue and order volume.  
+- Reflects TechHaven’s **dependence on year-end consumer spending**.  
+- Consistent Q4 surge visible across **all four years (2019–2022)**.  
+- Early-year lulls (Jan–Feb) typically recover by mid-spring.  
+- Ideal period for **inventory ramp-up and targeted marketing**.  
+
+</td>
+<td width="48%" valign="top">
+
+- **Seasonal volatility:** February and October often dip **23–31 %** in sales and orders.  
+- Indicates cyclical slowdowns or **promotional timing gaps**.  
+- The **2020 surge** stands out as an anomaly — rapid early-year growth followed by Q4 contraction.  
+- Later years show **post-pandemic normalization** and lower peak intensity.  
+- 2022 reflects the **deepest declines**, signaling need for fresh Q4 campaigns.
+
+</td>
+</tr>
+</table>
+
+</div>
 
 
 ## Sales Trends 
