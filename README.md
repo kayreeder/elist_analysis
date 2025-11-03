@@ -12,6 +12,44 @@ TechHaven is a trusted e-store established in 2018 that focuses on being the one
 <p align="center">
 <img width="637" height="375" alt="Screenshot 2025-10-27 172207" src="https://github.com/user-attachments/assets/2b697c76-0fef-456b-a998-cffbe479fadc" />
 
+## 📈 Sales Trends
+
+<p align="center">
+  <img width="511" height="200" alt="Total Sales Trends 2019–2022" src="https://github.com/user-attachments/assets/6f736886-955d-445b-9ae9-2540adc3416f" />
+  <img width="1008" height="392" alt="Sales Growth Rate Chart" src="https://github.com/user-attachments/assets/2447d60b-4599-4704-9147-27e2319643ce" />
+</p>
+
+<div align="center">
+
+<table>
+<tr>
+<td width="48%" valign="top">
+
+- TechHaven launched in 2018 with limited early growth.  
+- **2020 saw a dramatic surge**, with a **50 % sales increase in March alone**.  
+- The spike likely reflected **store shutdowns driving online demand**.  
+- From 2019 → 2020:  
+  - **AOV grew +31 %**  
+  - **Order count increased by 17 K**  
+- Mid-2020 peak reached **$1.2 M+ in sales**.  
+
+</td>
+<td width="48%" valign="top">
+
+- Momentum slowed after 2020, with a **gradual decline** in 2021–2022.  
+- **AOV decreased by 10 %**, and **order count fell by 40 %** from 2021 → 2022.  
+- The linear trendline shows **post-pandemic normalization** after the exceptional 2020 surge.  
+- Indicates temporary market forces (pandemic behavior, promotions) rather than sustained organic growth.  
+- Sets the stage for **renewed focus on retention and product diversity**.
+
+</td>
+</tr>
+</table>
+
+</div>
+
+
+
 ## Sales Trends 
 With TechHaven starting in 2018, there was not much growth the following year. However, 2020 spiked sales with a **50% growth rate in March alone.** This could be due to the shutdown of stores during that time, forcing customers to shop online. From 2019 to 2020, **AOV increased by 31% and order count by 17K.** 
 
@@ -138,94 +176,3 @@ _Apple Brand Contribution_
 </div>
 
 > **Overall:** TechHaven’s loyalty growth signals long-term business health — higher repeat purchases, stronger retention, and sustainable customer lifetime value (CLV) across its product portfolio.
-> 
-
-
-
-
-
-
-
-## 📈 Sales Trends
-
-<p align="center">
-  <img width="658" height="343" alt="Sales Trends Overview" src="https://github.com/user-attachments/assets/790e1317-9ff1-477c-8273-410057dbbd03" />
-</p>
-
-<div align="center">
-
-<table>
-<tr>
-<td width="48%" valign="top">
-
-With TechHaven starting in 2018, there was limited traction the following year. However, **2020 saw a dramatic sales surge**, with a **50 % growth rate in March alone**, likely due to in-person store shutdowns driving customers online.  
-From 2019 to 2020, **Average Order Value (AOV) increased by 31 %** and **order count rose by 17 K**, marking TechHaven’s strongest period of digital expansion.  
-
-The company, however, could not sustain that momentum in later years. Sales peaked mid-2020 at **over $1.2 M**, followed by a steady decline across 2021–2022.  
-During that time, **AOV fell 10 %** and **order count dropped 40 %**, suggesting a post-pandemic normalization in demand.  
-The linear trendline illustrates a gradual downward shift after the 2020 high point — an anomaly driven by short-term market forces or temporary promotions.
-
-<p align="center">
-  <img width="511" height="200" alt="Total Sales Chart" src="https://github.com/user-attachments/assets/6f736886-955d-445b-9ae9-2540adc3416f" />
-  <img width="1008" height="392" alt="Sales Growth Chart" src="https://github.com/user-attachments/assets/2447d60b-4599-4704-9147-27e2319643ce" />
-</p>
-
-</td>
-<td width="48%" valign="top">
-
-### 🗓️ Seasonality  
-Sales consistently spike during the holiday period, with **November and December driving an average 22 % growth** in both revenue and order volume — underscoring the brand’s reliance on year-end consumer activity.  
-
-Monthly growth rate trends from 2019–2022 reveal strong **seasonal volatility** and **post-2020 normalization**.  
-Across all four years, **February and October** repeatedly show **sales declines of 23–31 %**, indicating cyclical slowdowns or promotional gaps.  
-The **2020 surge** appears as a clear outlier — rapid early-year expansion followed by contraction in Q4.  
-Later years show continued deceleration, culminating in sharper declines through 2022.
-
-<p align="center">
-  <img width="686" height="395" alt="Seasonal Sales Heatmap" src="https://github.com/user-attachments/assets/dd15334d-d2b8-43a3-9400-af631082decc" />
-</p>
-
-</td>
-</tr>
-</table>
-
-</div>
-
-
-
-## 📈 Sales Trends
-
-<p align="center">
-  <img width="511" height="200" alt="Total Sales Trends 2019–2022" src="https://github.com/user-attachments/assets/6f736886-955d-445b-9ae9-2540adc3416f" />
-  <img width="1008" height="392" alt="Sales Growth Rate Chart" src="https://github.com/user-attachments/assets/2447d60b-4599-4704-9147-27e2319643ce" />
-</p>
-
-<div align="center">
-
-<table>
-<tr>
-<td width="48%" valign="top">
-
-- TechHaven launched in 2018 with limited early growth.  
-- **2020 saw a dramatic surge**, with a **50 % sales increase in March alone**.  
-- The spike likely reflected **store shutdowns driving online demand**.  
-- From 2019 → 2020:  
-  - **AOV grew +31 %**  
-  - **Order count increased by 17 K**  
-- Mid-2020 peak reached **$1.2 M+ in sales**.  
-
-</td>
-<td width="48%" valign="top">
-
-- Momentum slowed after 2020, with a **gradual decline** in 2021–2022.  
-- **AOV decreased by 10 %**, and **order count fell by 40 %** from 2021 → 2022.  
-- The linear trendline shows **post-pandemic normalization** after the exceptional 2020 surge.  
-- Indicates temporary market forces (pandemic behavior, promotions) rather than sustained organic growth.  
-- Sets the stage for **renewed focus on retention and product diversity**.
-
-</td>
-</tr>
-</table>
-
-</div>
-
