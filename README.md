@@ -67,11 +67,13 @@ TechHaven is a trusted e-store established in 2018 that focuses on being the one
 </td>
 <td width="48%" valign="top">
 
-- **Seasonal volatility:** February and October often dip **23–31 %** in sales and orders.  
-- Indicates cyclical slowdowns or **promotional timing gaps**.  
-- The **2020 surge** stands out as an anomaly — rapid early-year growth followed by Q4 contraction.  
-- Later years show **post-pandemic normalization** and lower peak intensity.  
-- 2022 reflects the **deepest declines**, signaling need for fresh Q4 campaigns.
+<h4>Seasonal Volatility</h4>
+
+- **February and October** show recurring **23–31 % declines** in sales and order count.  
+  - Indicates **cyclical slowdowns** or promotional timing gaps.  
+- **2020 surge** was an anomaly — rapid early-year growth, then Q4 contraction.  
+- Later years reflect **post-pandemic normalization** with lower peaks.  
+- 2022 shows **deepest declines**, suggesting renewed need for Q4 engagement strategies.
 
 </td>
 </tr>
