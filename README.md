@@ -29,7 +29,7 @@ TechHaven is a trusted e-store established in 2018 that focuses on being the one
   - The spike likely reflected **store shutdowns driving online demand**.  
 - From 2019 → 2020:  
   - **AOV grew +31 %**  
-  - **Order count increased by 17 K**  
+  - **Order count increased by 17K**  
 - Mid-2020 peak reached **$1.2 M+ in sales**.  
 
 </td>
