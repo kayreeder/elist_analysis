@@ -190,3 +190,42 @@ Later years show continued deceleration, culminating in sharper declines through
 </table>
 
 </div>
+
+
+
+## 📈 Sales Trends
+
+<p align="center">
+  <img width="511" height="200" alt="Total Sales Trends 2019–2022" src="https://github.com/user-attachments/assets/6f736886-955d-445b-9ae9-2540adc3416f" />
+  <img width="1008" height="392" alt="Sales Growth Rate Chart" src="https://github.com/user-attachments/assets/2447d60b-4599-4704-9147-27e2319643ce" />
+</p>
+
+<div align="center">
+
+<table>
+<tr>
+<td width="48%" valign="top">
+
+- TechHaven launched in 2018 with limited early growth.  
+- **2020 saw a dramatic surge**, with a **50 % sales increase in March alone**.  
+- The spike likely reflected **store shutdowns driving online demand**.  
+- From 2019 → 2020:  
+  - **AOV grew +31 %**  
+  - **Order count increased by 17 K**  
+- Mid-2020 peak reached **$1.2 M+ in sales**.  
+
+</td>
+<td width="48%" valign="top">
+
+- Momentum slowed after 2020, with a **gradual decline** in 2021–2022.  
+- **AOV decreased by 10 %**, and **order count fell by 40 %** from 2021 → 2022.  
+- The linear trendline shows **post-pandemic normalization** after the exceptional 2020 surge.  
+- Indicates temporary market forces (pandemic behavior, promotions) rather than sustained organic growth.  
+- Sets the stage for **renewed focus on retention and product diversity**.
+
+</td>
+</tr>
+</table>
+
+</div>
+
