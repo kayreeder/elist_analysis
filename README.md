@@ -130,6 +130,54 @@ TechHaven is a trusted e-store established in 2018 that focuses on being the one
 
 </div>
 
+## 🔄 Refund Rates
+
+<!-- === Heatmap Image === -->
+<p align="center">
+  <img width="750" height="420" alt="Refund Rate Heatmap by Product 2019–2021" src="https://github.com/user-attachments/assets/your-refund-heatmap-image-id" />
+</p>
+
+---
+
+<div align="center">
+
+<table>
+  <tr>
+    <td width="48%" valign="top">
+
+<h4>📊 Product-Level Patterns</h4>
+
+- Refund rates declined across nearly all products between **2019–2021**, reflecting stronger quality control.  
+- The **MacBook Air Laptop**, despite being the **second-highest revenue driver ($6.3 M)**, began with an **18 % refund rate**, which improved to **6 %** by 2021.  
+- The **ThinkPad Laptop** showed similar improvement (**17 % → 9 %**) as reliability increased.  
+- **Apple AirPods**, which made up **~45 % of all orders**, maintained moderate but stable refund levels (**6 % → 4 %**).
+
+<h4>💡 Brand-Level Impact</h4>
+
+- **Apple’s ecosystem products** (MacBook Air, AirPods, iPhone) dominated both sales and returns but still improved steadily in refund performance.  
+- These improvements likely resulted from **product updates** and **better post-purchase support**.  
+- Overall brand trust strengthened as high-volume Apple SKUs became more reliable year-over-year.
+
+</td>
+    <td width="48%" valign="top">
+
+<h4>📉 Underperformers & Stability</h4>
+
+- **27-inch 4K Gaming Monitor** remained a top-3 revenue product (~$9.8 M) with steady, manageable refund rates (**7 % → 5 %**).  
+- Accessories like the **Samsung Charging Cable Pack** and **Bose Headphones** maintained near-zero refund rates (**0–2 %**).  
+- These consistently low-return items reinforce TechHaven’s reputation for dependable accessory quality.
+
+<h4>📈 Business Implications</h4>
+
+- The overall decline in refund rates suggests **improved product reliability and fulfillment efficiency**.  
+- Fewer refunds lower operational losses and improve customer satisfaction.  
+- As high-revenue items become more reliable, TechHaven’s **profitability and customer retention** potential increases.
+
+</td>
+  </tr>
+</table>
+
+</div>
 
 ## Refund Rates
 
