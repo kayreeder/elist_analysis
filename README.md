@@ -25,9 +25,8 @@ TechHaven is a trusted e-store established in 2018 that focuses on being the one
 <tr>
 <td width="48%" valign="top">
 
-- TechHaven launched in 2018 with limited early growth but saw a **dramatic surge in 2020** with a **50 % sales increase in March alone**. 
-- **2020 saw a dramatic surge**, with  
-- The spike likely reflected **store shutdowns driving online demand**.  
+- TechHaven launched in 2018 with limited early growth but saw a **dramatic surge in 2020** with a **50 % sales increase in March alone**.   
+  - The spike likely reflected **store shutdowns driving online demand**.  
 - From 2019 → 2020:  
   - **AOV grew +31 %**  
   - **Order count increased by 17 K**  
