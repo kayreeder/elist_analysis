@@ -162,20 +162,6 @@ TechHaven is a trusted e-store established in 2018 that focuses on being the one
 
 </div>
 
-## Refund Rates
-
-<p align="center">
-  <img width="608" height="246" alt="Screenshot 2025-11-02 131644" src="https://github.com/user-attachments/assets/bbf77da9-7ff3-452a-a8ed-774661f4258a" />
-
-
-<ul>
-  <li>Overall refund rates <strong>declined steadily from 2019 to 2021</strong>, suggesting improved quality control and customer satisfaction.</li>
-  <li><strong>MacBook Air</strong> and <strong>ThinkPad Laptop</strong> started highest (~17–18%) but <strong>improved to single digits by 2021</strong>.</li>
-  <li><strong>iPhone</strong> and the <strong>27in 4K Gaming Monitor</strong> remained in a <strong>moderate</strong> range with gradual improvement.</li>
-  <li><strong>Bose Headphones</strong> and <strong>Samsung Charging Cable Pack</strong> show <strong>near-zero refunds</strong> across years.</li>
-  <li>The downward trend points to <strong>higher reliability</strong>, fewer returns, and <strong>greater operational efficiency</strong>.</li>
-  <li> However, there is missing data for all products in 2022.
-</ul>
 
 
 ## Loyalty Membership
@@ -190,7 +176,7 @@ TechHaven is a trusted e-store established in 2018 that focuses on being the one
 <tr>
 <td width="48%" valign="top">
 
-- **Loyalty share** grew dramatically from **11 % → 55 %**, quadrupling TechHaven’s active member base.  
+- **Loyalty share** grew dramatically from **11 % to 55 %**, quadrupling TechHaven’s active member base.  
 - **2021 marked a turning point**, when loyalty members outnumbered non-loyalty shoppers for the first time.  
 - The upward trend highlights strong engagement and improved brand trust.
 
@@ -205,6 +191,3 @@ TechHaven is a trusted e-store established in 2018 that focuses on being the one
 </tr>
 </table>
 
-</div>
-
-> **Overall:** TechHaven’s loyalty growth signals long-term business health — higher repeat purchases, stronger retention, and sustainable customer lifetime value (CLV) across its product portfolio.
