@@ -135,8 +135,6 @@ TechHaven is a trusted e-store established in 2018 that focuses on being the one
   <img width="608" height="246" alt="Screenshot 2025-11-02 131644" src="https://github.com/user-attachments/assets/bbf77da9-7ff3-452a-a8ed-774661f4258a" />
 </p>
 
----
-
 <div align="center">
 
 <table>
