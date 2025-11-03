@@ -194,6 +194,7 @@ TechHaven is a trusted e-store established in 2018 that focuses on being the one
 
 
 ## Recommendations
+<br>
 
 <div align="center">
 
@@ -249,13 +250,3 @@ TechHaven is a trusted e-store established in 2018 that focuses on being the one
 > **Overall:** These strategies would help TechHaven move from reactive market fluctuations toward sustainable, retention-driven growth — strengthening sales stability, product reliability, and customer lifetime value.
 
 
-## 🧭 Recommendations
-<br>
-
-<div align="center">
-
-<table>
-...
-</table>
-
-</div>
