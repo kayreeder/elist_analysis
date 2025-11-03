@@ -187,3 +187,57 @@ TechHaven is a trusted e-store established in 2018 that focuses on being the one
 </tr>
 </table>
 
+## Recommendations
+
+<div align="center">
+
+<table>
+<tr>
+<td width="48%" valign="top">
+
+<h4>Sales Trends</h4>
+
+- **Capitalize on seasonal peaks:**  
+  Focus marketing and ad spend in **Q4 (Nov–Dec)** where TechHaven consistently sees a +22 % lift in sales.  
+- **Reignite mid-year activity:**  
+  Introduce **summer promotions** or loyalty incentives to counteract recurring May–July slowdowns.  
+- **Stabilize post-2020 decline:**  
+  Diversify channel strategy and inventory planning to smooth year-over-year volatility.  
+
+<h4>Product Performance</h4>
+
+- **Reduce concentration risk:**  
+  Expand mid-tier and accessory product lines to balance dependence on top 3 SKUs.  
+- **Leverage Apple halo effect:**  
+  Develop bundled offers (e.g., accessories with Apple devices) to increase AOV while maintaining brand draw.  
+- **Monitor underperformers:**  
+  Reassess low-revenue items like webcams and headphones for redesign or discontinuation.  
+
+</td>
+<td width="48%" valign="top">
+
+<h4>Refund Rates</h4>
+
+- **Investigate 2022 data gap:**  
+  Prioritize complete refund data collection to confirm downward trend sustainability.  
+- **Maintain quality improvements:**  
+  Continue product QA and vendor audits that drove refund declines between 2019–2021.  
+- **Use refund metrics as KPIs:**  
+  Integrate refund rate tracking into monthly performance dashboards to flag potential product issues early.  
+
+<h4>Loyalty Program</h4>
+
+- **Strengthen engagement:**  
+  Offer tiered rewards or exclusive early access to reinforce retention and repeat purchases.  
+- **Onboard non-loyal customers:**  
+  Target the remaining 45 % of non-members with sign-up incentives before Q4 holiday season.  
+- **Link loyalty to profitability:**  
+  Correlate CLV and AOV data to quantify the long-term ROI of loyalty initiatives.  
+
+</td>
+</tr>
+</table>
+
+</div>
+
+> **Overall:** Implementing these strategies would help TechHaven transition from short-term sales fluctuations toward sustainable, retention-driven growth — improving revenue stability, customer satisfaction, and long-term profitability.
