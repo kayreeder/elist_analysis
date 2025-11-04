@@ -3,11 +3,12 @@ TechHaven is a trusted e-store established in 2018 that focuses on being the one
 ## North Star Metrics
 **Sales trends:** Track trends revenue, AOV, order count to determine seasonal patterns and customer activity 
 
-**Product trends:** Analyzing product performance to determine which categories drive sales and monitor customer satisfaction through refund rates 
+**Product trends:** Analyzing product performance to determine which categories drive sales
+
+**Refund trends:** Monitor customer satisfaction through refund rates
 
 **Loyalty program performance:** Compare sales between loyalty and non-loyalty members to evaluate retention success 
 
-**Geographic trends:** Visualize sales by region to uncover strong areas for targeted growth 
 
 <p align="center">
 <img width="637" height="375" alt="Screenshot 2025-10-27 172207" src="https://github.com/user-attachments/assets/2b697c76-0fef-456b-a998-cffbe479fadc" />
