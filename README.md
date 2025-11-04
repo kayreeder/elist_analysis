@@ -9,6 +9,8 @@ TechHaven is a trusted e-store established in 2018 that focuses on being the one
 
 **Loyalty program performance:** Compare sales between loyalty and non-loyalty members to evaluate retention success 
 
+## ERD
+
 
 <p align="center">
 <img width="637" height="375" alt="Screenshot 2025-10-27 172207" src="https://github.com/user-attachments/assets/2b697c76-0fef-456b-a998-cffbe479fadc" />
