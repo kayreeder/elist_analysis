@@ -205,48 +205,46 @@ TechHaven is a trusted e-store established in 2018 that focuses on being the one
 
 <h4>Sales Trends</h4>
 
-- **Capitalize on seasonal peaks:**  
-  Focus marketing and ad spend in **Q4 (Nov–Dec)** where TechHaven consistently sees a +22 % sales lift.  
-- **Reignite mid-year activity:**  
-  Introduce **summer promotions** or loyalty incentives to counteract recurring May–July slowdowns.  
-- **Stabilize post-2020 decline:**  
-  Diversify channel strategy and improve inventory planning to smooth year-over-year volatility.  
+- **Maximize holiday momentum:**  
+  Concentrate marketing campaigns and ad budgets in **Q4 (Nov–Dec)** when TechHaven typically sees about a **+22 % sales lift**.  
+- **Boost slower months:**  
+  Launch **mid-year promotions** or loyalty offers to lift activity during the May–July slowdown.  
+- **Balance year-to-year performance:**  
+  Broaden sales channels and fine-tune inventory planning to reduce dependence on short-term spikes like 2020.
 
 <h4>Product Performance</h4>
 
-- **Reduce concentration risk:**  
-  Expand mid-tier and accessory product lines to lessen dependence on top 3 SKUs.  
-- **Leverage Apple halo effect:**  
-  Create bundled offers (e.g., Apple device + accessory) to raise AOV while maintaining brand draw.  
-- **Address underperformers:**  
-  Reassess low-revenue items (e.g., webcams, older accessories) for redesign or discontinuation.  
+- **Diversify beyond best-sellers:**  
+  Develop mid-tier or complementary products to reduce reliance on the top three SKUs.  
+- **Build on Apple’s brand power:**  
+  Offer **bundled packages** (e.g., Apple device + accessory) to raise AOV and cross-sell effectively.  
+- **Refine low performers:**  
+  Reevaluate weak products such as older webcams or headphones for redesign, replacement, or retirement.
 
 </td>
 <td width="48%" valign="top">
 
 <h4>Refund Rates</h4>
 
-- **Investigate 2022 data gap:**  
-  Prioritize full refund data collection to confirm sustained improvement.  
-- **Maintain quality initiatives:**  
-  Continue QA processes and vendor audits that reduced refunds 2019–2021.  
-- **Integrate refund metrics:**  
-  Track refund rates as KPIs in performance dashboards to identify product issues early.  
+- **Fill in missing 2022 data:**  
+  Ensure complete refund reporting to verify whether the improvement trend continues.  
+- **Keep quality initiatives in place:**  
+  Maintain the QA checks and supplier audits that cut refund rates between 2019–2021.  
+- **Use refunds as early warnings:**  
+  Add refund metrics to performance dashboards to spot product issues before they affect revenue.
 
 <h4>Loyalty Program</h4>
 
-- **Enhance engagement:**  
-  Add **tiered rewards** and exclusive offers to encourage repeat purchases.  
-- **Convert non-members:**  
-  Target remaining non-loyal customers with incentives before key seasonal periods.  
-- **Measure program ROI:**  
-  Correlate CLV and AOV data to demonstrate the financial impact of loyalty growth.  
+- **Deepen member engagement:**  
+  Add **tiered rewards**, early-access offers, or referral bonuses to encourage repeat purchases.  
+- **Convert remaining shoppers:**  
+  Target the 45 % of non-members with sign-up incentives before the next holiday season.  
+- **Show the financial impact:**  
+  Compare **Customer Lifetime Value (CLV)** and **Average Order Value (AOV)** for loyalty vs. non-loyalty customers to demonstrate how membership drives long-term revenue growth.
 
 </td>
 </tr>
 </table>
 
 </div>
-
-
 
