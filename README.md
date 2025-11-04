@@ -237,7 +237,7 @@ This analysis and recommendations will be used to strengthen TechHaven’s growt
 - **Fill in missing 2022 data:**  
   Ensure complete refund reporting to verify whether the improvement trend continues.  
 - **Keep quality initiatives in place:**  
-  Maintain the QA checks and supplier audits that cut refund rates between 2019–2021.  
+  Maintain the quality assurance checks and supplier audits that cut refund rates between 2019–2021.  
 - **Use refunds as early warnings:**  
   Add refund metrics to performance dashboards to spot product issues before they affect revenue.
 
