@@ -1,11 +1,10 @@
 # TechHaven Analysis
-TechHaven is a global e-commerce retailer established in 2018, positioned as a one-stop shop for consumer electronics. Between 2019 and 2022, the company generated over **$28 million in revenue across more than 108 thousand sales.**
+TechHaven is a global e-commerce retailer established in 2018, positioned as a one-stop shop for consumer electronics. Between 2019 and 2022, the company generated over **$28M in revenue across more than 108K sales.**
 
 In recent years, however, increased market competition, especially following the Covid-19 era, has begun to impact TechHaven’s key performance indicators (KPIs). To address this, I partnered with the Head of Operations to conduct a comprehensive analysis of company data, including sales, orders, refunds, geographic performance, and loyalty program trends.
 
 This analysis and recommendations will be used to strengthen TechHaven’s growth strategy, enhance customer retention, and improve overall operational efficiency.
 
-TechHaven is a trusted e-store established in 2018 that focuses on being the one stop shop for electronics globally. TechHaven generated **$28M with over 108K sales** in 2019-2022. However, TechHaven has encountered competition which has affected KPIs since Covid-19. With a large amount of data on sales, orders, refunds, geographic information, and the loyalty program, I am partnering with the Head of Operations to thoroughly analyze this information to uncover insights and provide recommendations to improve company growth. 
 ## North Star Metrics
 **Sales trends:** Track trends revenue, AOV, order count to determine seasonal patterns and customer activity 
 
