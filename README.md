@@ -95,7 +95,7 @@ This analysis and recommendations will be used to strengthen TechHaven’s growt
 
 <!-- === Line Graph Image === -->
 <p align="center">
-  <img width="933" height="511" alt="Product Revenue and Order Trends 2019–2022" src="https://github.com/user-attachments/assets/637d7d80-9ae4-499d-815c-ae1460d36417" />
+  <img width="931" height="570" alt="Screenshot 2025-11-08 162903" src="https://github.com/user-attachments/assets/4e43c3d5-970c-40e6-b5a5-1b2d0262ec72" />
 </p>
 
 <!-- === Two-Column Insights === -->
