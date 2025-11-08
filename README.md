@@ -14,7 +14,7 @@ This analysis and recommendations will be used to strengthen TechHaven’s growt
 
 **Loyalty program performance:** Compare sales between loyalty and non-loyalty members to evaluate retention success 
 
-## ERD
+## Entity Relationship Diagram
 
 
 <p align="center">
@@ -58,7 +58,7 @@ This analysis and recommendations will be used to strengthen TechHaven’s growt
 ### Seasonality
 
 <p align="center">
-  <img width="686" height="395" alt="Seasonal Sales Growth Rate Trends 2019–2022" src="https://github.com/user-attachments/assets/dd15334d-d2b8-43a3-9400-af631082decc" />
+ <img width="670" height="391" alt="Screenshot 2025-11-08 161131" src="https://github.com/user-attachments/assets/74f7107f-dda3-4b93-a60f-8ec9e4166e19" />
 </p>
 
 <div align="center">
@@ -175,7 +175,7 @@ This analysis and recommendations will be used to strengthen TechHaven’s growt
 
 
 <p align="center">
-  <img width="658" height="343" alt="Screenshot 2025-11-02 141113" src="https://github.com/user-attachments/assets/790e1317-9ff1-477c-8273-410057dbbd03" />
+<img width="616" height="373" alt="Screenshot 2025-11-08 161313" src="https://github.com/user-attachments/assets/9db9b401-2668-40e8-bcea-caa9eda6f5c4" />
 </p>
 
 <div align="center">
@@ -248,7 +248,7 @@ This analysis and recommendations will be used to strengthen TechHaven’s growt
 - **Convert remaining shoppers:**  
   Target the 45 % of non-members with sign-up incentives before the next holiday season.  
 - **Show the financial impact:**  
-  Compare **Customer Lifetime Value (CLV)** and **Average Order Value (AOV)** for loyalty vs. non-loyalty customers to demonstrate how membership drives long-term revenue growth.
+  Compare **customer lifetime value** and **average order value** for loyalty vs. non-loyalty customers to demonstrate how membership drives long-term revenue growth.
 
 </td>
 </tr>
