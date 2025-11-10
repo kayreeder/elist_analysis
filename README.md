@@ -34,10 +34,10 @@ This analysis and recommendations will be used to strengthen TechHaven’s growt
 <tr>
 <td width="48%" valign="top">
 
-- TechHaven launched in 2018 with limited early growth but saw a **dramatic surge in 2020** with a **50 % sales increase in March alone**.   
+- TechHaven launched in 2018 with limited early growth but saw a **dramatic surge in 2020** with a **50% sales increase in March alone**.   
   - The spike likely reflected **store shutdowns driving online demand**.  
 - From 2019 → 2020:  
-  - **AOV grew +31 %**  
+  - **AOV grew 31+%**  
   - **Order count increased by 17K**  
   - **Sales spiked by $6.3M**.  
 
@@ -45,7 +45,7 @@ This analysis and recommendations will be used to strengthen TechHaven’s growt
 <td width="48%" valign="top">
 
 - Momentum slowed after 2020, with a **gradual decline** in 2021–2022.  
-  - **AOV decreased by 10 %**, and **order count fell by 40 %**.  
+  - **AOV decreased by 10 %**, and **order count fell by 40%**.  
   - The linear trendline shows **post-pandemic normalization** after the exceptional 2020 surge, which indicates temporary market forces success rather than sustained organic growth.  
   - Sets the stage for **renewed focus on retention and product diversity**.
 
