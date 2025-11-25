@@ -217,8 +217,6 @@ This analysis and recommendations will be used to strengthen TechHaven’s growt
   Concentrate marketing campaigns and ad budgets in **Q4 (Nov–Dec)** when TechHaven typically sees about a **22+% sales lift**.  
 - **Boost slower months:**  
   Launch **mid-year promotions** or loyalty offers to lift activity during the May–July slowdown.  
-- **Balance year-to-year performance:**  
-  Broaden sales channels and fine-tune inventory planning to reduce dependence on short-term spikes like 2020.
 
 <h4>Product Performance</h4>
 
@@ -235,9 +233,7 @@ This analysis and recommendations will be used to strengthen TechHaven’s growt
 <h4>Refund Rates</h4>
 
 - **Fill in missing 2022 data:**  
-  Ensure complete refund reporting to verify whether the improvement trend continues.  
-- **Keep quality initiatives in place:**  
-  Maintain the quality assurance checks and supplier audits that cut refund rates between 2019–2021.  
+  Ensure complete refund reporting to verify whether the improvement trend continues.    
 - **Use refunds as early warnings:**  
   Add refund metrics to performance dashboards to spot product issues before they affect revenue.
 
@@ -246,9 +242,7 @@ This analysis and recommendations will be used to strengthen TechHaven’s growt
 - **Deepen member engagement:**  
   Add **tiered rewards**, early-access offers, or referral bonuses to encourage repeat purchases.  
 - **Convert remaining shoppers:**  
-  Target the 45% of non-members with sign-up incentives before the next holiday season.  
-- **Show the financial impact:**  
-  Compare **customer lifetime value** and **average order value** for loyalty vs. non-loyalty customers to demonstrate how membership drives long-term revenue growth.
+  Target the 45% of non-members with sign-up incentives before the next holiday season. 
 
 </td>
 </tr>
