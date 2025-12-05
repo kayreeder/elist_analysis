@@ -25,7 +25,8 @@ This analysis and recommendations will be used to strengthen TechHaven’s growt
 
 <p align="center">
   <img width="511" height="200" alt="Total Sales Trends 2019–2022" src="https://github.com/user-attachments/assets/6f736886-955d-445b-9ae9-2540adc3416f" />
-  <img width="1008" height="392" alt="Sales Growth Rate Chart" src="https://github.com/user-attachments/assets/2447d60b-4599-4704-9147-27e2319643ce" />
+ <img width="967" height="432" alt="Screenshot 2025-12-05 171538" src="https://github.com/user-attachments/assets/294bb662-18cd-49d2-ba4d-6050ed0c53e9" />
+
 </p>
 
 <div align="center">
