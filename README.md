@@ -6,7 +6,7 @@ In recent years, however, increased market competition, especially following the
 This analysis and recommendations will be used to strengthen TechHaven’s growth strategy, enhance customer retention, and improve overall operational efficiency.
 
 ## North Star Metrics
-**Sales trends:** Track trends revenue, AOV, order count to determine seasonal patterns and customer activity 
+**Sales trends:** Track trends revenue, AOV, order count, and MoM growth rates to determine seasonal patterns and customer activity 
 
 **Product trends:** Analyzing product performance to determine which categories drive sales
 
