@@ -59,7 +59,8 @@ This analysis and recommendations will be used to strengthen TechHaven’s growt
 ### Seasonality
 
 <p align="center">
- <img width="670" height="391" alt="Screenshot 2025-11-08 161131" src="https://github.com/user-attachments/assets/74f7107f-dda3-4b93-a60f-8ec9e4166e19" />
+<img width="648" height="406" alt="Screenshot 2025-12-05 174443" src="https://github.com/user-attachments/assets/9c1feaae-63fe-41bf-a8ef-24aee347bc01" />
+
 </p>
 
 <div align="center">
