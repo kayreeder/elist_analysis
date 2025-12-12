@@ -218,16 +218,16 @@ This analysis and recommendations will be used to strengthen TechHaven’s growt
 - **Maximize holiday momentum:**  
   Concentrate marketing campaigns and ad budgets in **Q4 (Nov–Dec)** when TechHaven typically sees about a **22+% sales lift**.  
 - **Boost slower months:**  
-  Launch **mid-year promotions** or loyalty offers to lift activity during the May–July slowdown.  
+ Launch mid-year promotions or loyalty offers to counter the **May–July** slowdown, where **MoM sales growth averages only ~2%**.
 
 <h4>Product Performance</h4>
 
 - **Diversify beyond best-sellers:**  
-  Develop mid-tier or complementary products to reduce reliance on the top three SKUs.  
+  Develop mid-tier or complementary products to reduce reliance on the top three SKUs, which currently account for **~85% of total sales**. 
 - **Build on Apple’s brand power:**  
-  Offer **bundled packages** to raise AOV and cross-sell effectively.  
+  Offer **bundled packages** to raise AOV and cross-sell effectively as Apple products make up **50% of all sales** and **48% of total orders**. 
 - **Refine low performers:**  
-  Reevaluate weak products such as older webcams or headphones for redesign, replacement, or retirement.
+  Reevaluate weak products such as the Samsung Webcam and Bose Headphones for redesign, replacement, or retirement as they hardly contribute to total sales **(0-1%)**.
 
 </td>
 <td width="48%" valign="top">
@@ -237,12 +237,12 @@ This analysis and recommendations will be used to strengthen TechHaven’s growt
 - **Fill in missing 2022 data:**  
   Ensure complete refund reporting to verify whether the improvement trend continues.    
 - **Use refunds as early warnings:**  
-  Add refund metrics to performance dashboards to spot product issues before they affect revenue.
-
+  Add refund metrics to performance dashboards to spot product issues before they affect revenue. For example, the MacBook Air is a top-three seller yet experienced an **18% refund rate in 2019**, which later **improved to 6% by 2021**, demonstrating the impact of monitoring.
+  
 <h4>Loyalty Program</h4>
 
 - **Deepen member engagement:**  
-  Add **tiered rewards**, early-access offers, or referral bonuses to encourage repeat purchases.  
+  Add **tiered rewards**, early-access offers, or referral bonuses to encourage repeat purchases as the loyalty program has **increased by 44%** from 2019-2022.  
 - **Convert remaining shoppers:**  
   Target the 45% of non-members with sign-up incentives before the next holiday season. 
 
