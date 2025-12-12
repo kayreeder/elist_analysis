@@ -227,7 +227,7 @@ This analysis and recommendations will be used to strengthen TechHaven’s growt
 - **Build on Apple’s brand power:**  
   Offer **bundled packages** to raise AOV and cross-sell effectively as Apple products make up **50% of all sales** and **48% of total orders**. 
 - **Refine low performers:**  
-  Reevaluate weak products such as the Samsung Webcam and Bose Headphones for redesign, replacement, or retirement as they hardly contribute to total sales **(0-1%)**.
+  Reevaluate weak products such as the Samsung Webcam and Bose Headphones for redesign, replacement, or retirement as they only contribute **0-1%** of total sales.
 
 </td>
 <td width="48%" valign="top">
